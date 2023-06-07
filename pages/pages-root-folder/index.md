@@ -11,17 +11,17 @@ widget1:
   title: "Find out more about the group's research"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 widget2:
   title: "Get to know Prof. Kobeleva"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modelling and conducts translational research, focusing on impactful research questions.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Meet the team"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'he research group's diverse team consists of physicians, experts in informatics, and basic sciences. We conduct interdisciplinary research at the intersection of mathematics, informatics, and neuroscience.'
 #
 # Use the call for action to show a button on the frontpage
 #
