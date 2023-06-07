@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Get to know Prof. Kobeleva"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'yyy'
+  text: 'Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modeling and conducts translational research, focusing on impactful research questions.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Meet the team"
