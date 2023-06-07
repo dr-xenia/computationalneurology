@@ -7,6 +7,9 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+subheadline: "x"
+title: "y"
+teaser: "z"
 widget1:
   title: "cBlog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
