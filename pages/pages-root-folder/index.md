@@ -10,6 +10,7 @@ header:
 subheadline: "x"
 title: "y"
 teaser: "z"
+Welcome
 widget1:
   title: "ccBlog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
