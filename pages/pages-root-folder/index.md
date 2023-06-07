@@ -11,7 +11,7 @@ widget1:
   title: "Find out more about the group's research"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'xxx.'
+  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 widget2:
   title: "Get to know Prof. Kobeleva"
   url: 'http://phlow.github.io/feeling-responsive/info/'
