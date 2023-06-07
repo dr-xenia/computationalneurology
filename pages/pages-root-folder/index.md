@@ -21,7 +21,7 @@ widget3:
   title: "Meet the team"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: 'The research groups diverse team consists of physicians, experts in informatics, and basic sciences. We conduct interdisciplinary research at the intersection of mathematics, informatics, and neuroscience.'
+  text: "The research group's diverse team consists of physicians, experts in informatics, and basic sciences. We conduct interdisciplinary research at the intersection of mathematics, informatics, and neuroscience."
 #
 # Use the call for action to show a button on the frontpage
 #
