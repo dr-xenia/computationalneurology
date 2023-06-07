@@ -13,15 +13,15 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 widget2:
-  title: "Get to know Prof. Kobeleva"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  title: "Find out more about the group's research"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modelling and conducts translational research, focusing on impactful research questions.'
-widget3:
-  title: "Meet the team"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: 'The research group's diverse team consists of physicians, experts in informatics, and basic sciences. We conduct interdisciplinary research at the intersection of mathematics, informatics, and neuroscience.'
+  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
+  widget3:
+  title: "Find out more about the group's research"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  image: widget-1-302x182.jpg
+  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 #
 # Use the call for action to show a button on the frontpage
 #
