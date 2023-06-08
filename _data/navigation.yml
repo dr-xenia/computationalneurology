@@ -18,15 +18,15 @@
   url: "/publications/"
   side: left
 
-- title: "Collaborations"
-  url: "/collaborations/"
+- title: "Collab"
+  url: "/collab/"
   side: left
 
-- title: "Non-expert Info"
+- title: "Non-expert info"
   url: "/non-expert-info/"
   side: right
   
-  - title: "Patienteninformation 🇩🇪"
+  - title: "Patienten-info 🇩🇪"
   url: "/search/"
   side: right
   
