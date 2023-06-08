@@ -46,7 +46,7 @@ li:hover {
 </style>
 
 
-<h1>Media-Objekt im Grid Layout</h1>
+<h1>kMedia-Objekt im Grid Layout</h1>
 <ul class="media">
 	<li> <img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Bild einer Narzisse, Quelle Wikipedia">
 		<h3>Frühling</h3>
