@@ -9,6 +9,43 @@ header:
 permalink           : "/team/"
 ---
 
+<style>
+.media {
+	list-style-type: none;
+	width: 30em;
+}
+
+.media li {
+	display: grid;
+	grid-template-columns: 7em 1fr;
+	grid-template-rows: 2em 3em;
+	gap: 1em;
+	margin-bottom: 1em;
+}
+
+.media li>img {
+	grid-row: 1 / 3;
+	width: 6em;
+}
+
+.media h3 {
+	font: bold 1.2em/1.5 Helvetica, Verdana, sans-serif;
+	margin-top: 0;
+}
+
+.media p {
+	font: 100 0.75em/1.5 Georgia, Times New Roman, serif;
+	margin: 0;
+}
+
+li:hover {
+	background: #F1F3F4;
+	cursor: pointer;
+}
+
+</style>
+
+
 <h1>Media-Objekt im Grid Layout</h1>
 <ul class="media">
 	<li> <img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Bild einer Narzisse, Quelle Wikipedia">
