@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: About our Research
-  url: "/"
+- title: About
+  url: "/about/"
   side: left
 
 - title: Xenia Kobeleva
@@ -15,14 +15,18 @@
   side: left
   
 - title: "Publications"
-  url: "/research/"
+  url: "/publications/"
   side: left
 
-- title: "Collaboratoins"
-  url: "/research/"
+- title: "Collaborations"
+  url: "/collaborations/"
   side: left
 
-- title: "Einfach erklärt (Patienteninformation) 🇩"
+- title: "Non-expert Info"
+  url: "/non-expert-info/"
+  side: right
+  
+  - title: "Patienteninformation 🇩🇪"
   url: "/search/"
   side: right
   
