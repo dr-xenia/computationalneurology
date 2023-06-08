@@ -17,7 +17,7 @@ slogan: 'Computational Neurology Research Group | Ruhr University Bochum | Prof.
 description: 'This is the website of the Computational Neurology Research Group at Ruhr University Bochum (Prof. Dr. Xenia Kobeleva)'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p><a href="http://phlow.de/">Contact</a> | <a href="http://jekyllrb.com/">Impressum 🇩🇪</a></p>'
 
 # Main author of the website
 # See > authors.yml
