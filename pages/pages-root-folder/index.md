@@ -9,19 +9,19 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Read about our research"
-  url: 'research'
+  url: 'about'
   image: widget-1-302x182.jpg
   text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 widget2:
-  title: "Read about our research"
-  url: 'research'
+  title: "Meet Prof. Kobeleva"
+  url: 'xenia-kobeleva'
   image: widget-1-302x182.jpg
-  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
+  text: 'Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modeling and conducts translational research, focusing on impactful research questions.'
 widget3:
-  title: "Read about our research"
-  url: 'research'
+  title: "Get to know the team"
+  url: 'team'
   image: widget-1-302x182.jpg
-  text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
+  text: 'Our diverse team consists of physicians, experts in informatics, and basic sciences. We conduct interdisciplinary research at the intersection of mathematics, informatics, and neuroscience.'
 #
 # Use the call for action to show a button on the frontpage
 #
