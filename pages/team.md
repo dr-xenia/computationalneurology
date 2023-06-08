@@ -16,16 +16,11 @@ permalink           : "/team/"
         grid-template-columns: fit-content(200px) 1fr;
         grid-template-rows:1fr auto;
         grid-template-areas:
-	    "headline headline"
             "image content"
             "image footer";
         grid-gap: 20px;
         margin-bottom: 4em;
     }
-
-    .headline {
-        grid-area: headline;
-    }	
 	
     .img {
         grid-area: image;
@@ -43,13 +38,11 @@ permalink           : "/team/"
 
 
 <div class="media">
-	<div class="headline">
-		Prof. Dr. Xenia Kobeleva
-	</div>
 	<div class="img">
 		<img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Balloons">
 	</div>
 	<div class="content">
+		<h1>Prof. Dr. Xenia Kobeleva</h1>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
 	</div>
 	<div class="footer">
