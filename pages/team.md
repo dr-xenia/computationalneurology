@@ -10,6 +10,7 @@ permalink           : "/team/"
 ---
 
 <style>
+@media (min-width: 500px) {
     .media {
         display: grid;
         grid-template-columns: fit-content(200px) 1fr;
@@ -32,7 +33,7 @@ permalink           : "/team/"
     .footer {
         grid-area: footer;
     }
-
+}
 </style>
 
 
