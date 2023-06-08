@@ -48,7 +48,7 @@ permalink           : "/team/"
 		<h4>Prof. Dr. Xenia Kobeleva</h4>
 		<h5>Prof. Dr. Xenia Kobeleva</h5>
 		<h6>Prof. Dr. Xenia Kobeleva</h6>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. [mediaelement.js]({{ site.url }}/design/mediaelement_js/) Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
 	</div>
 	<div class="footer">
 		An optional footer goes here.
