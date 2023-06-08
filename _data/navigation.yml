@@ -1,4 +1,8 @@
-- title: Home/About
+- title: Home
+  url: "/"
+  side: left
+
+- title: About our Research
   url: "/"
   side: left
 
@@ -10,32 +14,16 @@
   url: "/team/"
   side: left
   
-- title: "Research"
+- title: "Publications"
   url: "/research/"
   side: left
-  dropdown:
-  - title: "Research Overview"
-    url: "/research/overview/"
-  - title: "Publications"
-    url: "/research/publications/"
-  - title: "Collaborations"
-    url: "/research/collaborations/"
-    
-- title: "Outreach"
-  url: "/outreach/"
+
+- title: "Collaboratoins"
+  url: "/research/"
   side: left
-  dropdown:
-  - title: "Our work explained in simple terms"
-    url: "/outreach/simple-terms/"
-  - title: "Patienteninformationen 🇩🇪"
-    url: "/outreach/patienteninformationen/"
 
-- title: "News"
+- title: "Einfach erklärt (Patienteninformation) 🇩"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
   
 - title: "Impressum 🇩🇪"
