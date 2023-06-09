@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Change is good!"
+title: "Publications"
 meta_title: "Feeling Responsive Theme Changelog"
 subheadline: "Feeling Responsive Theme Changelog"
 teaser: "History and changelog of Feeling Responsive Theme"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/changelog/"
+permalink: "/publications/"
 ---
 2021-06-21 // Version 1.92
 :   I changed lots of different small things. The most important was to fix a problem from a commit caused to break the mobile navigation.
