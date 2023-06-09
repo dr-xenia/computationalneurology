@@ -17,3 +17,7 @@
 - title: "Publications"
   url: "/publications/"
   side: left
+
+- title: "Collab"
+  url: "/collab/"
+  side: left
