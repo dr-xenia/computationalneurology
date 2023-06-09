@@ -1,4 +1,4 @@
-- title: "Home"
+- title: "xHome"
   url: "/"
   side: left
 
@@ -20,7 +20,7 @@
 
 - title: "Collab"
   url: "/collab/"
-  side: left
+  side: right
 
 #- title: "Non&#45;expert info"
 #  url: "/non-expert-info/"
@@ -30,6 +30,6 @@
 #  url: "/patienten-info/"
 #  side: right
 
-- title: "Impressum 🇩🇪"
-  url: "/impressum/"
-  side: right
+#- title: "Impressum 🇩🇪"
+#  url: "/impressum/"
+#  side: right
