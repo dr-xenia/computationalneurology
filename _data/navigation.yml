@@ -23,7 +23,7 @@
   side: left
 
 - title: "Patienteninfo 🇩🇪"
-  url: "/patienteninfo/"
+  url: "/patienten-info/"
   side: right
 
 - title: "Impressum 🇩🇪"
