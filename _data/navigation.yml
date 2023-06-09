@@ -21,3 +21,8 @@
 - title: "Collab"
   url: "/collab/"
   side: left
+
+
+- title: "Impressum 🇩🇪"
+  url: "/impressum/"
+  side: right
