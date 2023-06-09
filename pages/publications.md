@@ -8,8 +8,10 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/publications/"
 ---
-2021-06-21 // Version 1.92
-:   I changed lots of different small things. The most important was to fix a problem from a commit caused to break the mobile navigation.
+45
+Kobeleva, X., López-González, A., Kringelbach, M., Deco, G. (2021)
+:   Revealing the Relevant Spatiotemporal Scale Underlying Whole-Brain Dynamics
+:   Frontiers in Neuroscience, 15, 715861, [DOI](https://doi.org/10.3389/fnins.2021.715861)
 
 2015-11-10 // Version 1.91
 :   I added a nasty hack to highlight the homepage in the topbar navigation. To do it, you have to add `homepage: true` to your homepage. The pages *404* and *search* are now excluded from the sitemap.
