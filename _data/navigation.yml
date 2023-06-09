@@ -22,6 +22,10 @@
   url: "/collab/"
   side: left
 
+- title: "Non expert info"
+  url: "/non-expert-info/"
+  side: right
+
 - title: "Patienteninfo 🇩🇪"
   url: "/patienten-info/"
   side: right
