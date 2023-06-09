@@ -20,6 +20,10 @@
 
 - title: "Collab"
   url: "/collab/"
+  side: left
+
+- title: "Patienteninfo 🇩🇪"
+  url: "/patienten-info/"
   side: right
 
 - title: "Impressum 🇩🇪"
@@ -30,6 +34,4 @@
 #  url: "/non-expert-info/"
 #  side: right
 
-#- title: "Patienteninfo 🇩🇪"
-#  url: "/patienten-info/"
-#  side: right
+
