@@ -9,7 +9,7 @@ header:
 permalink: "/publications/"
 ---
 45
-Kobeleva, X., López-González, A., Kringelbach, M., Deco, G. (2021)
+`Kobeleva, X.`, López-González, A., Kringelbach, M., Deco, G. (2021)
 :   Revealing the Relevant Spatiotemporal Scale Underlying Whole-Brain Dynamics
 :   Frontiers in Neuroscience, 15, 715861, [DOI](https://doi.org/10.3389/fnins.2021.715861)
 
