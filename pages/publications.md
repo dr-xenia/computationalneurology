@@ -5,14 +5,6 @@ subheadline: ""
 teaser: ""
 permalink: "/publications/"
 ---
+Ballarini, T., Kuhn, E., Röske, S., … <u>Kobeleva, X.</u>, … & DELCODE Study Group (2023).
+:   Linking early-life bilingualism and cognitive advantage in older adulthood.<br><b>Neurobiology of Aging</b>, 124, 18-28. [DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
 
-
-
-<u>Kobeleva, X.</u>, López-González, A., Kringelbach, M., Deco, G. (2021)
-:   Revealing the Relevant Spatiotemporal Scale Underlying Whole-Brain Dynamics<br><b>Frontiers in Neuroscience</b>, 15, 715861, [DOI](https://doi.org/10.3389/fnins.2021.715861)
-
-Kobeleva, X., López-González, A., Kringelbach, M., Deco, G. (2021)
-:   Revealing the Relevant Spatiotemporal Scale Underlying Whole-Brain Dynamics<br><b>Frontiers in Neuroscience</b>, 15, 715861, [DOI](https://doi.org/10.3389/fnins.2021.715861)
-
-Kobeleva, X., López-González, A., Kringelbach, M., Deco, G. (2021)
-:   Revealing the Relevant Spatiotemporal Scale Underlying Whole-Brain Dynamics<br><b>Frontiers in Neuroscience</b>, 15, 715861, [DOI](https://doi.org/10.3389/fnins.2021.715861)
