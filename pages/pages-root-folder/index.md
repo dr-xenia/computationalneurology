@@ -5,8 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-#header:
-#  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Read about our research"
   url: '/about/'
@@ -44,6 +42,6 @@ permalink: /index.html
 homepage: true
 ---
 <p></p>
-<p style="text-align:center;font-style:bold;">Welcome to the website of the Computational Neurology Research Group at Ruhr University Bochum</p>
+<p style="text-align:center;font-style:bold;">Welcome to the website of the Computational Neurology Research Group at Ruhr University Bochum!</p>
 <p></p>
 <p style="text-align:center;font-style:italic;">Group picture</p>
