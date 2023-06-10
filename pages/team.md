@@ -4,8 +4,6 @@ show_meta           : false
 title               : "Team"
 subheadline         : ""
 teaser              : ""
-header:
-    background-color: "#17365C;"
 permalink           : "/team/"
 ---
 
