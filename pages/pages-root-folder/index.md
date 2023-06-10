@@ -43,6 +43,6 @@ permalink: /index.html
 #
 homepage: true
 ---
-<h2 style="text-align:center">Welcome to the website of the <br>Computational Neurology Research Group <br>at Ruhr University Bochum!</h2>
+<p style="text-align:center;font-style:bold;">Welcome to the website of the Computational Neurology Research Group at Ruhr University Bochum!<p>
 <p></p>
 <p style="text-align:center;font-style:italic;">Group picture</p>
