@@ -42,7 +42,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
 		<p>Research Group Leader</p>
-		<p>For more information on Xenia Kobeleva, please see her [personal sub-page](/xenia-kobeleva)</p>
+		<p>For more information on Xenia Kobeleva, please see her <a href=https://computationalneurology.com/xenia-kobeleva>personal sub-page</a>.</p>
 	</div>
 </div>
 
