@@ -41,11 +41,8 @@ permalink           : "/team/"
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
-		<p>Prof. Dr. Xenia Kobeleva</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. [mediaelement.js]({{ site.url }}/design/mediaelement_js/) Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
-	</div>
-	<div class="footer">
-		An optional footer goes here.
+		<p>Research Group Leader</p>
+		<p>For more information on Xenia Kobeleva, please see her [personal sub-page](/xenia-kobeleva)</p>
 	</div>
 </div>
 
@@ -54,12 +51,10 @@ permalink           : "/team/"
 		<img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Balloons">
 	</div>
 	<div class="content">
-		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
-		<p>Prof. Dr. Xenia Kobeleva</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. [mediaelement.js]({{ site.url }}/design/mediaelement_js/) Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
-	</div>
-	<div class="footer">
-		An optional footer goes here.
+		<h2 style="margin:0px;">Riccardo Leone</h2>
+		<p>PhD Candidate</p>
+		<p>I obtained both my Medical Degree (2016) and my Certificate of Specialization in Radiology (2022) from San Raffaele University in Milan, Italy. Since September 2022 I am a PhD candidate in Neuroscience at the Computational Neurology Lab.</p>
+		<p>My research focuses on building whole-brain models of brain functional activity in patients along the dementia spectrum. By incorporating biological observables (e.g., vascular pathology) in these models, we aim to both develop deterministic explanations of how these pathophysiological processes lead to cognitive impairment, and also to develop reliable models that could be used for personalized simulation of treatments to improve patients’ treatment options.</p>
 	</div>
 </div>
 
