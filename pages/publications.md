@@ -65,7 +65,7 @@ Vellage, A. K., Veit, M., <u>Kobeleva, X.</u>, Petri, S., Vielhaber, S., & Müll
 :   Working memory network changes in ALS: an fMRI Study.<br><b>Frontiers in Neuroscience</b>, 10, 158. [DOI](https://doi.org/10.3389/fnins.2016.00158)
 
 Firbank, M.`*`, <u>Kobeleva, X.</u>`*`, Cherry, G., Killen, A., Gallagher, P., Burn, D. J., … & Taylor, J. P. (2016).
-Neural correlates of attention‐executive dysfunction in lewy body dementia and Alzheimer's disease.<br><b>Human Brain Mapping</b>, 37(3), 1254-1270. [DOI](https://doi.org/10.1002/hbm.23100)
+:   Neural correlates of attention‐executive dysfunction in lewy body dementia and Alzheimer's disease.<br><b>Human Brain Mapping</b>, 37(3), 1254-1270. [DOI](https://doi.org/10.1002/hbm.23100)
 
 Funke, A., Grehl, T., Großkreutz, J., Münch, C., Walter, B., Kettemann, D., … <u>Kobeleva, X.</u>, … & Meyer, T. (2015).
 :   Hilfsmittelversorgung bei der amyotrophen Lateralsklerose.<br>[German] <b>Der Nervenarzt</b>, 86(8), 1007-1017. [DOI](https://doi.org/10.1007/s00115-015-4398-2)
@@ -77,4 +77,4 @@ Funke, A., Grehl, T., Großkreutz, J., Münch, C., Walter, B., Kettemann, D., �
 :   Varicella zoster-associated retinal and central nervous system vasculitis in a patient with multiple sclerosis treated with natalizumab.<br><b>Journal of Neuroinflammation</b>, 11(1), 19. [DOI](https://doi.org/10.1186/1742-2094-11-19)
 
 <u>Kobeleva, X.</u>, & Petri, S. (2013).
-Barriers to novel therapeutics in amyotrophic lateral sclerosis.<br><b>Neurodegenerative Disease Management<b/>, 3(6), 525-537. [DOI](https://doi.org/10.2217/nmt.13.66)
+:   Barriers to novel therapeutics in amyotrophic lateral sclerosis.<br><b>Neurodegenerative Disease Management<b/>, 3(6), 525-537. [DOI](https://doi.org/10.2217/nmt.13.66)
