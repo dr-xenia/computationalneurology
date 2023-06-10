@@ -37,7 +37,7 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Balloons">
+		<img src="/images/profile_xeniakobeleva.jpg">
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
@@ -48,7 +48,7 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Balloons">
+		<img src="/images/profile_riccardoleonea.jpg">
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Riccardo Leone</h2>
