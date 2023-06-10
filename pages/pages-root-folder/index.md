@@ -10,7 +10,7 @@ layout: frontpage
 widget1:
   title: "Read about our research"
   url: 'about'
-  image: widget-1-302x182.jpg
+  image: widget_research.jpg
   text: 'In the research group, we seek to answer clinical relevant questions in the field of neuropsychiatry using computational methods. In Computational Neurology, we interlink imaging methodology with clinical data.'
 widget2:
   title: "Meet Prof. Kobeleva"
