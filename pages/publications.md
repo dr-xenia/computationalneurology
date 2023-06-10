@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Publications (Peer-reviewed journal articles)"
+title: "Publications"
 subheadline: ""
-teaser: ""
+teaser: "(Peer-reviewed journal articles)"
 permalink: "/publications/"
 ---
 Ballarini, T., Kuhn, E., Röske, S., … <u>Kobeleva, X.</u>, … & DELCODE Study Group (2023).
