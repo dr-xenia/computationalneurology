@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
+#header:
+#  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Read about our research"
   url: 'about'
@@ -32,22 +32,16 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
+ #callforaction:
+   #url: https://tinyletter.com/feeling-responsive
+   #text: Inform me about new updates and features ›
+   #style: alert
+ #permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 homepage: true
 ---
-Testingggd
-d
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<h1 style="text-align:center">Welcome to the website of the Computational Neurology Research Group at Ruhr University Bochum!</h1>
+<p>Group picture</p>
