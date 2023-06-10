@@ -6,7 +6,8 @@ subheadline         : "Research Group Leader"
 teaser              : ""
 permalink           : "/xenia-kobeleva/"
 ---
-<img src="/images/widget_xeniakobeleva.jpg">
+<img src="/images/profile_xeniakobeleva.jpg"><br>
+
 I am an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). I am an expert in neurodegenerative diseases and brain modelling and affiliated with several leading brain research institutions, such as [UPF’s computational neuroscience lab](https://www.upf.edu/web/cns) and the [German Center for Neurodegenerative Diseases (DZNE)](https://www.dzne.de/en/).
 
 Being a neurologist and a neuroscientist, I truly identify as a translational neuroscientist. On the one hand, translation means that I take problems that are brought up by clinical practitioners in the hospital and translate them into research questions. On the other hand, translation also means that I take the answers that have been identified in my lab and translate them back to the clinic, so that our research results contribute to improving patients’ lives.
