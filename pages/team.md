@@ -5,9 +5,7 @@ title               : "Team"
 subheadline         : ""
 teaser              : ""
 header:
-    title: Computational Neurology Research Group @ RUB
     background-color: "#17365C;"
-    caption: Computational Neurology Research Group @ RUB
 permalink           : "/team/"
 ---
 
@@ -44,7 +42,7 @@ permalink           : "/team/"
 		<img src="https://wiki.selfhtml.org/images/f/f1/Fr%C3%BChling.png" alt="Balloons">
 	</div>
 	<div class="content">
-		<h2>Prof. Dr. Xenia Kobeleva</h2>
+		<p>Prof. Dr. Xenia Kobeleva</p>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. [mediaelement.js]({{ site.url }}/design/mediaelement_js/) Duis vehicula vitae ligula sit amet maximus. Nunc auctor neque ipsum, ac porttitor elit lobortis ac. Vivamus ultrices sodales tellus et aliquam. Pellentesque porta sit amet nulla vitae luctus. Praesent quis risus id dolor venenatis condimentum.</p>
 	</div>
 	<div class="footer">
