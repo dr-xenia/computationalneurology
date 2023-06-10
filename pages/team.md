@@ -48,7 +48,7 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="/images/profile_riccardoleonea.jpg">
+		<img src="/images/profile_riccardoleone.jpg">
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Riccardo Leone</h2>
