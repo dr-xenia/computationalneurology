@@ -5,7 +5,7 @@ title               : "Team"
 subheadline         : ""
 teaser              : ""
 header:
-    title: header with text
+    title: Computational Neurology Research Group @ RUB
     background-color: "#17365C;"
     caption: Computational Neurology Research Group @ RUB
 permalink           : "/team/"
