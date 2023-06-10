@@ -7,3 +7,4 @@ teaser              : ""
 permalink           : "/collaborations/"
 ---
 tbd
+(Bochum & Bonn, Mathematik & Informatik & Klinik). Vgl. M.G.
