@@ -58,3 +58,4 @@ permalink           : "/team/"
 	</div>
 </div>
 
+Steven, Nahid, Alumni
