@@ -6,7 +6,7 @@ subheadline         : "Research Group Leader"
 teaser              : ""
 permalink           : "/xenia-kobeleva/"
 ---
-<img src="/images/profile_xeniakobeleva.jpg"><br>
+<img style="text-align:center;" src="/images/profile_xeniakobeleva.jpg"><br>
 
 I am an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). I am an expert in neurodegenerative diseases and brain modelling and affiliated with several leading brain research institutions, such as [UPF’s computational neuroscience lab](https://www.upf.edu/web/cns) and the [German Center for Neurodegenerative Diseases (DZNE)](https://www.dzne.de/en/).
 
