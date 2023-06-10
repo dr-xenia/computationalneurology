@@ -6,7 +6,7 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/impressum/"
 ---
-- Mandatory imprint by German law -
+— Mandatory imprint by German law —
 
 Angaben gemäß § 5 TMG
 Prof. Dr. Xenia Kobeleva
