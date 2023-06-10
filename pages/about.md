@@ -20,7 +20,7 @@ The data-driven approach mainly focusses on the analysis of neurological disease
 
 This kind of modelling might enable medical doctors to adapt their treatments based on patient-specific mathematical models.
 
-<b>Methods we use in the research group</b>
+<b>Methods we use in the research group:</b>
 <ul>
   <li>Dynamical modelling (dynamic mean field, Hopf, etc.)</li>
   <li>Analyses of connectivity (structural connectivity, functional connectivity, dynamical functional connectivity, effective connectivity)</li>
