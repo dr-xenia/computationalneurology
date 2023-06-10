@@ -4,6 +4,10 @@ show_meta           : false
 title               : "Team"
 subheadline         : ""
 teaser              : ""
+header:
+    title: header with text
+    background-color: "#17365C;"
+    caption: Computational Neurology Research Group @ RUB
 permalink           : "/team/"
 ---
 
