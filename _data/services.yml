@@ -1,14 +1,14 @@
 - menu_name: "Research Network"
 
-- name: "Faculty of Medicine, Ruhr University Bochum"
+- name: "RUB Faculty of Medicine"
   url: "https://www.medizin.ruhr-uni-bochum.de/"
   title: "Faculty of Medicine, Ruhr University Bochum"
 
-- name: "German Center for Neurodegenerative Diseases"
+- name: "DZNE"
   url: "https://www.dzne.de/en/"
   title: "German Center for Neurodegenerative Diseases"
 
-- name: "Uni Bonn TRA Life and Health"
+- name: "TRA Life and Health"
   url: "https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra-3-life-1"
   title: "Uni Bonn TRA Life and Health"
 
