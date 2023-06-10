@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "Informationen für Patienten "
 subheadline         : ""
-teaser              : "Diese Seite ist für Patienten gedacht, die von Prof. Dr. Xenia Kobeleva tagsüber behandelts wird"
+teaser              : "Auf dieser Seite finden Patienten, die von Prof. Dr. Xenia Kobeleva behandelt werden, spezifische Informationen"
 permalink           : "/patienten-info/"
 ---
 tbd
