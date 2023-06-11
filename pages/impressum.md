@@ -8,11 +8,11 @@ permalink           : "/impressum/"
 ---
 — Mandatory imprint by German law —
 
-Angaben gemäß § 5 TMG
-Prof. Dr. Xenia Kobeleva
-Ruhr-Universität Bochum
-Universitätsstraße 150
+<b>Angaben gemäß § 5 TMG<b><br>
+Prof. Dr. Xenia Kobeleva<br>
+Ruhr-Universität Bochum<br>
+Universitätsstraße 150<br>
 44801 Bochum
 
-Kontakt
+Kontakt<br>
 E-Mail
