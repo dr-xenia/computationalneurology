@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Publications"
 subheadline: ""
 teaser: "(Peer-reviewed journal articles)"
