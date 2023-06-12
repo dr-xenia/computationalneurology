@@ -8,7 +8,7 @@ permalink: "/publications/"
 `Asterisks * indicate joint first authors`
 
 
-24. Linking early-life bilingualism and cognitive advantage in older adulthood.
+"24." Linking early-life bilingualism and cognitive advantage in older adulthood.
 :   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group (2023).<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28. [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
 
 Jessen, F., Wolfsgruber, S., Kleineindam, L., … <u>Kobeleva, X.</u>, … & Düzel, E. (2023).
@@ -20,7 +20,7 @@ Kleineidam, L., Wolfsgruber, S., Weyrauch, A.-S., … <u>Kobeleva, X.</u>, … &
 Pohl, E.`*`, Upadhuay, N.`*`, <u>Kobeleva, X.</u>`*`, … & Boecker, H. (2022). 
 :   Coherent structural and functional network changes after Nucleus Ventralis Intermedius lesion in Essential Tremor.<br><b>Movement Disorders</b>, 37(9), 1924-1929. [DOI](https://doi.org/10.1002/mds.29130)
 
-20. Advancing brain network models to reconcile functional neuroimaging and clinical research.
+"20." Advancing brain network models to reconcile functional neuroimaging and clinical research.
 :   <b>Kobeleva, X.</b>, Varoquaux, G., Dagher A., Adhikari, M., Grefkes, C., Gilson, M. (2022).<br><b><u>NeuroImage Clinical</u></b>, 36, 103262. [→ DOI](https://doi.org/10.1016/j.nicl.2022.103262)
 
 Cordts, E., Oender, D., Traschütz, A., <u>Kobeleva, X.</u>, … & Deschauer, M. (2022).
