@@ -8,8 +8,8 @@ permalink: "/publications/"
 `Asterisks * indicate joint first authors`
 
 
-Linking early-life bilingualism and cognitive advantage in older adulthood
-:   Ballarini, T., Kuhn, E., Röske, S., … <u>Kobeleva, X.</u>, … & DELCODE Study Group (2023)<br><b>Neurobiology of Aging</b>, 124, 18-28. [DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
+Linking early-life bilingualism and cognitive advantage in older adulthood.
+:   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group.<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28, 2023.<br>[DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
 
 Jessen, F., Wolfsgruber, S., Kleineindam, L., … <u>Kobeleva, X.</u>, … & Düzel, E. (2023).
 :   Subjective cognitive decline and stage 2 of Alzheimer disease in patients from memory centers.<br><b>Alzheimer's & Dementia</b>, 19(2), 487-497. [DOI](https://doi.org/10.1002/alz.12674)
