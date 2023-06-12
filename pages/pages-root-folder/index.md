@@ -44,4 +44,4 @@ homepage: true
 <p></p>
 <p style="text-align:center;font-style:bold;">Welcome to the website of the Computational Neurology Research Group at Ruhr University Bochum!</p>
 <p></p>
-<p style="text-align:center;font-style:italic;">Group picture</p>
+<p style="text-align:center;font-style:italic;">- Group picture -</p>
