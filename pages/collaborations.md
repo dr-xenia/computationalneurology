@@ -5,6 +5,7 @@ title               : "Research Collaborations"
 subheadline         : ""
 teaser              : ""
 permalink           : "/collaborations/"
+# (Bochum & Bonn, Mathematik & Informatik & Klinik). Vgl. M.G.
 ---
 tbd
-(Bochum & Bonn, Mathematik & Informatik & Klinik). Vgl. M.G.
+
