@@ -54,9 +54,37 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Riccardo Leone</h2>
 		<p>PhD Candidate</p>
-		<p>I obtained both my Medical Degree (2016) and my Certificate of Specialization in Radiology (2022) from San Raffaele University in Milan, Italy. Since September 2022 I am a PhD candidate in Neuroscience at the Computational Neurology Lab.</p>
-		<p>My research focuses on building whole-brain models of brain functional activity in patients along the dementia spectrum. By incorporating biological observables (e.g., vascular pathology) in these models, we aim to both develop deterministic explanations of how these pathophysiological processes lead to cognitive impairment, and also to develop reliable models that could be used for personalized simulation of treatments to improve patients’ treatment options.</p>
+		<p>Riccardo Leone obtained his Medical Degree (2016) and his Certificate of Specialization in Radiology (2022) from San Raffaele University in Milan, Italy. Since September 2022, he is a PhD candidate in Neuroscience at the Computational Neurology Research Group.</p>
+		<p>In his research, Riccardo Leone focuses on building whole-brain models of brain functional activity in patients along the dementia spectrum. By incorporating biological observables (e.g., vascular pathology) in these models, he seeks to develop deterministic explanations of how these pathophysiological processes lead to cognitive impairment, and he also aims to develop reliable models that could be used for personalized simulation of treatments to improve patients’ treatment options.</p>
 	</div>
 </div>
 
-Steven, Nahid, Alumni
+<div class="media">
+	<div class="img">
+		<img src="/images/profile_riccardoleone.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Steven</h2>
+		<p>Postgraduate Research Assistant</p>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+</div>
+
+<div class="media">
+	<div class="img">
+		<img src="/images/profile_riccardoleone.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Nahid</h2>
+		<p>Postgraduate Research Assistant</p>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	</div>
+</div>
+
+<h2 style="margin:0px;">Alumni of the Computational Neurology Research Group</h2>
+- YYY
+- YYY
+- YYY
+- YYY
