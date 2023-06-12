@@ -18,17 +18,17 @@
   url: "/publications/"
   side: left
 
-- title: "Collaborations"
-  url: "/collaborations/"
-  side: left
+#- title: "Collaborations"
+#  url: "/collaborations/"
+#  side: left
 
 - title: "Non‐expert info"
   url: "/non-expert-info/"
   side: right
 
-- title: "Patienten‐Info 🇩🇪"
-  url: "/patienten-info/"
-  side: right
+#- title: "Patienten‐Info 🇩🇪"
+#  url: "/patienten-info/"
+#  side: right
 
 - title: "Impressum 🇩🇪"
   url: "/impressum/"
