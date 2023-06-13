@@ -14,3 +14,11 @@ permalink           : "/non-expert-info/"
    <li>I evaluate biomarkers; these are tools that allow us to detect these diseases earlier (which is necessary to apply preventions and early therapies).</li>
    <li>Furthermore I am interested in bringing digitalization into the medical world in a way that is best for patients and healthcare workers.</li>
 </ul>
+
+
+<div style="text-align: center;">
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">‹ Go back to the group's list of publications</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Continue to this website's imprint ›</a>
+</div>
+
+<br><br>
