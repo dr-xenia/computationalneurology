@@ -30,3 +30,5 @@ This kind of modelling might enable medical doctors to adapt their treatments ba
   <li>Medical informatics</li>
   <li>Open science</li>
 </ul>
+
+<br><br>
