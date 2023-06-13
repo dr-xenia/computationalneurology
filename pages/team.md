@@ -61,7 +61,7 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="/images/profile_riccardoleone.jpg">
+		<img src="/images/profile_stevengeysen.jpg">
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Steven Geysen</h2>
@@ -73,7 +73,7 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="/images/profile_riccardoleone.jpg">
+		<img src="/images/profile_nahidhasan.jpg">
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Nahid Hasan</h2>
