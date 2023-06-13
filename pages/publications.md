@@ -29,14 +29,14 @@ permalink: "/publications/"
 18: Revealing the relevant spatiotemporal scale underlying whole-brain dynamics.
 :   <b>Kobeleva, X.</b>, López-González, A., Kringelbach, M., & Deco, G. (2021).<br><b><u>Frontiers of Neuroscience</u></b>, 15, 715861. [→ DOI](https://doi.org/10.3389/fnins.2021.715861)
 
-<u>Kobeleva, X.</u>, Machts, J., Veit, M., Vielhaber, S., Petri, S., & Schoenfeld, M.A. (2021).
-:   Brain activity is contingent on neuropsychological function in an fMRI study of Verbal Working Memory in Amyotrophic Lateral Sclerosis.<br><b>European Journal of Neurology</b>, 28(89), 3051-3060. [→ DOI](https://doi.org/10.1111/ene.14957)
+17: Brain activity is contingent on neuropsychological function in an fMRI study of Verbal Working Memory in Amyotrophic Lateral Sclerosis.
+:   <b>Kobeleva, X.</b>, Machts, J., Veit, M., Vielhaber, S., Petri, S., & Schoenfeld, M.A. (2021).<br><b><u>European Journal of Neurology</u></b>, 28(89), 3051-3060. [→ DOI](https://doi.org/10.1111/ene.14957)
 
-Fu, T., <u>Kobeleva, X.</u>, Bronzlik, P., Nösel, P., Dadak, M., Lanfermann, H., Petri, S., Ding X. (2021).
-:   Clinically applicable quantitative magnetic resonance morphologic measurements of grey matter changes in the human brain.<br><b>Brain Sciences</b>, 11(1), 55. [→ DOI](https://doi.org/10.3390/brainsci11010055)
+16: Clinically applicable quantitative magnetic resonance morphologic measurements of grey matter changes in the human brain.
+:   Fu, T., <b>Kobeleva, X.</b>, Bronzlik, P., Nösel, P., Dadak, M., Lanfermann, H., Petri, S., Ding X. (2021).<br><b><u>Brain Sciences</u></b>, 11(1), 55. [→ DOI](https://doi.org/10.3390/brainsci11010055)
 
-Sannemann, L., Schild, A.-K., … <u>Kobeleva, X.</u>, … & Jessen, F. (2020).
-:   Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers—results from the DELCODE study.<br><b>Alzheimer's Research & Therapy</b>, 12(1), 1-11. [→ DOI](https://doi.org/10.1186/s13195-020-00701-7)
+15: Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers—results from the DELCODE study.
+:   Sannemann, L., Schild, A.-K., … <b>Kobeleva, X.</b>, … & Jessen, F. (2020).<br><b><u>Alzheimer's Research & Therapy</u></b>, 12(1), 1-11. [→ DOI](https://doi.org/10.1186/s13195-020-00701-7)
 
 14: Minor neuropsychological deficits in patients with subjective cognitive decline.
 :   Wolfsgruber, S., Kleineidam L., … & DELCODE Study Group (<b>Kobeleva, X.</b> part of DECLODE Study Group) (2020).<br><b><u>Neurology</u></b>, 95(9), e1134-e1143. [→ DOI](https://doi.org/10.1212/WNL.0000000000010142)
