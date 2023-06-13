@@ -69,7 +69,7 @@ Sannemann, L., Schild, A.-K., … <u>Kobeleva, X.</u>, … & Jessen, F. (2020).
 5: Neural correlates of attention‐executive dysfunction in lewy body dementia and Alzheimer's disease.
 :   Firbank, M.`*`, <b>Kobeleva, X.</b>`*`, Cherry, G., Killen, A., Gallagher, P., Burn, D. J., … & Taylor, J. P. (2016).<br><b><u>Human Brain Mapping</u></b>, 37(3), 1254-1270. [→ DOI](https://doi.org/10.1002/hbm.23100)
 
-4: Hilfsmittelversorgung bei der amyotrophen Lateralsklerose. *(In German language)*
+4: Hilfsmittelversorgung bei der amyotrophen Lateralsklerose *(in German language)*.
 :   Funke, A., Grehl, T., Großkreutz, J., Münch, C., Walter, B., Kettemann, D., … <b>Kobeleva, X.</b>, … & Meyer, T. (2015).<br><b><u>Der Nervenarzt</u></b>, 86(8), 1007-1017. [→ DOI](https://doi.org/10.1007/s00115-015-4398-2)
 
 3: Dissociation of explicit and implicit measures of the behavioral inhibition and activation system in borderline personality disorder.
