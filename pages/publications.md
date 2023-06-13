@@ -39,32 +39,32 @@ Fu, T., <u>Kobeleva, X.</u>, Bronzlik, P., Nösel, P., Dadak, M., Lanfermann, H.
 Sannemann, L., Schild, A.-K., … <u>Kobeleva, X.</u>, … & Jessen, F. (2020).
 :   Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers—results from the DELCODE study.<br><b>Alzheimer's Research & Therapy</b>, 12(1), 1-11. [→ DOI](https://doi.org/10.1186/s13195-020-00701-7)
 
-Wolfsgruber, S., Kleineidam L., … & DELCODE Study Group (<u>Kobeleva, X.</b> part of DECLODE Study Group) (2020).
-:   Minor neuropsychological deficits in patients with subjective cognitive decline.<br><b>Neurology</b>, 95(9), e1134-e1143. [→ DOI](https://doi.org/10.1212/WNL.0000000000010142)
+14: Minor neuropsychological deficits in patients with subjective cognitive decline.
+:   Wolfsgruber, S., Kleineidam L., … & DELCODE Study Group (<b>Kobeleva, X.</b> part of DECLODE Study Group) (2020).<br><b><u>Neurology</u></b>, 95(9), e1134-e1143. [→ DOI](https://doi.org/10.1212/WNL.0000000000010142)
 
-Husain, R.A., Grimmel, A., … <u>Kobeleva, X.</u>, … Haack, T.B. (2020).
-:   Bi-allelic HPDL variants cause a neurodegenerative disease ranging from Neonatal Encephalopathy to Adolescent-Onset Spastic Paraplegia.<br><b>American Journal of Human Genetics</b>, 107(2), 364-373. [→ DOI](https://doi.org/10.1016/j.ajhg.2020.06.015)
+13: Bi-allelic HPDL variants cause a neurodegenerative disease ranging from Neonatal Encephalopathy to Adolescent-Onset Spastic Paraplegia.
+:   Husain, R.A., Grimmel, A., … <b>Kobeleva, X.</b>, … Haack, T.B. (2020).<br><b><u>American Journal of Human Genetics</u></b>, 107(2), 364-373. [→ DOI](https://doi.org/10.1016/j.ajhg.2020.06.015)
 
-Fard, M. A. F., Rebelo, A. P., Buglo, E., Nemati, H., Dastsooz, H., Gehweiler, I., … <u>Kobeleva, X.</u>, … & Cortese, A. (2019).
-:   Truncating Mutations in UBAP1 Cause Hereditary Spastic Paraplegia.<br><b>The American Journal of Human Genetics</b>, 104(4), 767-773. [→ DOI](https://doi.org/10.1016/j.ajhg.2019.03.001)
+12: Truncating Mutations in UBAP1 Cause Hereditary Spastic Paraplegia.
+:   Fard, M. A. F., Rebelo, A. P., Buglo, E., Nemati, H., Dastsooz, H., Gehweiler, I., … <b>Kobeleva, X.</b>, … & Cortese, A. (2019).<br><b><u>The American Journal of Human Genetics</u></b>, 104(4), 767-773. [→ DOI](https://doi.org/10.1016/j.ajhg.2019.03.001)
 
-Ludolph, A. C., Schuster, … & RAS-ALS Study Group (<U>Kobeleva, X.</u> part of RAS-ALS Study Group) (2018).
-:   Safety and efficacy of rasagiline as an add-on therapy to riluzole in patients with amyotrophic lateral sclerosis: a randomised, double-blind, parallel-group, placebo-controlled, phase 2 trial.<br><b>The Lancet Neurology</b>, 17(8), 681-688. [→ DOI](https://doi.org/10.1016/S1474-4422(18)30176-5)
+11: Safety and efficacy of rasagiline as an add-on therapy to riluzole in patients with amyotrophic lateral sclerosis: a randomised, double-blind, parallel-group, placebo-controlled, phase 2 trial.
+:   Ludolph, A. C., Schuster, … & RAS-ALS Study Group (<b>Kobeleva, X.</b> part of RAS-ALS Study Group) (2018).<br><b><u>The Lancet Neurology</u></b>, 17(8), 681-688. [→ DOI](https://doi.org/10.1016/S1474-4422(18)30176-5)
 
-Westeneng, H. J., Debray, T. P., Visser, A. E., van Eijk, R. P., Rooney, J. P., Calvo, A., … <u>Kobeleva, X.</u>, … & van den Berg, L. H. (2018).
-:   Prognosis for patients with amyotrophic lateral sclerosis: development and validation of a personalised prediction model.<br><b>The Lancet Neurology</b>, 17(5), 423-433. [→ DOI](https://doi.org/10.1016/S1474-4422(18)30089-9)
+10: Prognosis for patients with amyotrophic lateral sclerosis: development and validation of a personalised prediction model.
+:   Westeneng, H. J., Debray, T. P., Visser, A. E., van Eijk, R. P., Rooney, J. P., Calvo, A., … <b>Kobeleva, X.</b>, … & van den Berg, L. H. (2018).<br><b><u>The Lancet Neurology</u></b>, 17(5), 423-433. [→ DOI](https://doi.org/10.1016/S1474-4422(18)30089-9)
 
-Peraza, L. R., Cromarty, R., <u>Kobeleva, X.</u>, Firbank, M. J., Killen, A., Graziadio, S., … & Taylor, J.-P. (2018).
-:   Electroencephalographic derived network differences in Lewy body dementia compared to Alzheimer’s disease patients.<br><b>Scientific Reports</b>, 8(1), 4637. [→ DOI](https://doi.org/10.1038/s41598-018-22984-5)
+9: Electroencephalographic derived network differences in Lewy body dementia compared to Alzheimer’s disease patients.
+:   Peraza, L. R., Cromarty, R., <b>Kobeleva, X.</b>, Firbank, M. J., Killen, A., Graziadio, S., … & Taylor, J.-P. (2018).<br><b><u>Scientific Reports</u></b>, 8(1), 4637. [→ DOI](https://doi.org/10.1038/s41598-018-22984-5)
 
-<u>Kobeleva, X.</u>`*`, Firbank, M.`*`, Peraza, L., Gallagher, P., Thomas, A., Burn, D. J., … & Taylor, J. P. (2017).
-:   Divergent functional connectivity during attentional processing in Lewy body dementia and Alzheimer's disease.<br><b>Cortex</b>, 92, 8-18. [→ DOI](https://doi.org/10.1016/j.cortex.2017.02.016)
+8: Divergent functional connectivity during attentional processing in Lewy body dementia and Alzheimer's disease.
+:   <b>Kobeleva, X.</b>`*`, Firbank, M.`*`, Peraza, L., Gallagher, P., Thomas, A., Burn, D. J., … & Taylor, J. P. (2017).<br><b><u>Cortex</u></b>, 92, 8-18. [→ DOI](https://doi.org/10.1016/j.cortex.2017.02.016)
 
-Meininger, V., Genge, A., … & NOG112264 Study Group (<u>Kobeleva, X.</u> part of NOG112264 Study Group) (2017).
-:   Safety and efficacy of ozanezumab in patients with amyotrophic lateral sclerosis: a randomised, double-blind, placebo-controlled, phase 2 trial.<br><b>The Lancet Neurology</b>, 16(3), 208-216. [→ DOI](https://doi.org/10.1016/S1474-4422(16)30399-4)
+7: Safety and efficacy of ozanezumab in patients with amyotrophic lateral sclerosis: a randomised, double-blind, placebo-controlled, phase 2 trial.
+:   Meininger, V., Genge, A., … & NOG112264 Study Group (<b>Kobeleva, X.</b> part of NOG112264 Study Group) (2017).<br><b><u>The Lancet Neurology</u></b>, 16(3), 208-216. [→ DOI](https://doi.org/10.1016/S1474-4422(16)30399-4)
 
-Vellage, A. K., Veit, M., <u>Kobeleva, X.</u>, Petri, S., Vielhaber, S., & Müller, N. G. (2016).
-:   Working memory network changes in ALS: an fMRI Study.<br><b>Frontiers in Neuroscience</b>, 10, 158. [→ DOI](https://doi.org/10.3389/fnins.2016.00158)
+6: Working memory network changes in ALS: an fMRI Study.
+:   Vellage, A. K., Veit, M., <b>Kobeleva, X.</b>, Petri, S., Vielhaber, S., & Müller, N. G. (2016).<br><b><u>Frontiers in Neuroscience</u></b>, 10, 158. [→ DOI](https://doi.org/10.3389/fnins.2016.00158)
 
 5: Neural correlates of attention‐executive dysfunction in lewy body dementia and Alzheimer's disease.
 :   Firbank, M.`*`, <b>Kobeleva, X.</b>`*`, Cherry, G., Killen, A., Gallagher, P., Burn, D. J., … & Taylor, J. P. (2016).<br><b><u>Human Brain Mapping</u></b>, 37(3), 1254-1270. [→ DOI](https://doi.org/10.1002/hbm.23100)
