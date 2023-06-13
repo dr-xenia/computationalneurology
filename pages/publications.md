@@ -8,7 +8,7 @@ permalink: "/publications/"
 `Asterisks * indicate joint first authors`
 
 
-"24." Linking early-life bilingualism and cognitive advantage in older adulthood.
+24: Linking early-life bilingualism and cognitive advantage in older adulthood.
 :   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group (2023).<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28. [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
 
 Jessen, F., Wolfsgruber, S., Kleineindam, L., … <u>Kobeleva, X.</u>, … & Düzel, E. (2023).
