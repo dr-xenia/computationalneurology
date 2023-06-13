@@ -18,7 +18,7 @@ permalink           : "/non-expert-info/"
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">‹ Go back to the group's list of publications</a>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Continue to this website's imprint ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/impressum/">Continue to this website's imprint ›</a>
 </div>
 
 <br><br>
