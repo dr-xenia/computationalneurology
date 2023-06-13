@@ -46,4 +46,9 @@ permalink           : "/xenia-kobeleva/"
 	</div>
 </div>
 
+<div style="text-align: center;">
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/about/">‹ Go back to read more about the group</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">Get to know the team ›</a>
+</div>
 
+<br><br>
