@@ -11,24 +11,23 @@ permalink: "/publications/"
 24: Linking early-life bilingualism and cognitive advantage in older adulthood.
 :   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group (2023).<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28. [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
 
-
 23: Subjective cognitive decline and stage 2 of Alzheimer disease in patients from memory centers.
 :   Jessen, F., Wolfsgruber, S., Kleineindam, L., … <b>Kobeleva, X.</b>, … & Düzel, E. (2023).<br><b><u>Alzheimer's & Dementia</u></b>, 19(2), 487-497. [→ DOI](https://doi.org/10.1002/alz.12674)
 
-Kleineidam, L., Wolfsgruber, S., Weyrauch, A.-S., … <u>Kobeleva, X.</u>, … & Wagner, M. (2022).
-:   Midlife occupational cognitive requirements protect cognitive function in old age by increasing cognitive reserve.<br><b>Frontiers in Psychology</b>, 13, 957308. [→ DOI](https://doi.org/10.3389/fpsyg.2022.957308)
+22: Midlife occupational cognitive requirements protect cognitive function in old age by increasing cognitive reserve.
+:   Kleineidam, L., Wolfsgruber, S., Weyrauch, A.-S., … <b>Kobeleva, X.</b>, … & Wagner, M. (2022).<br><b><u>Frontiers in Psychology</u></b>, 13, 957308. [→ DOI](https://doi.org/10.3389/fpsyg.2022.957308)
 
-Pohl, E.`*`, Upadhuay, N.`*`, <u>Kobeleva, X.</u>`*`, … & Boecker, H. (2022). 
-:   Coherent structural and functional network changes after Nucleus Ventralis Intermedius lesion in Essential Tremor.<br><b>Movement Disorders</b>, 37(9), 1924-1929. [→ DOI](https://doi.org/10.1002/mds.29130)
+21: Coherent structural and functional network changes after Nucleus Ventralis Intermedius lesion in Essential Tremor.
+:   Pohl, E.`*`, Upadhuay, N.`*`, <b>Kobeleva, X.</b>`*`, … & Boecker, H. (2022).<br><b><u>Movement Disorders</u></b>, 37(9), 1924-1929. [→ DOI](https://doi.org/10.1002/mds.29130)
 
-"20." Advancing brain network models to reconcile functional neuroimaging and clinical research.
+20: Advancing brain network models to reconcile functional neuroimaging and clinical research.
 :   <b>Kobeleva, X.</b>, Varoquaux, G., Dagher A., Adhikari, M., Grefkes, C., Gilson, M. (2022).<br><b><u>NeuroImage Clinical</u></b>, 36, 103262. [→ DOI](https://doi.org/10.1016/j.nicl.2022.103262)
 
-Cordts, E., Oender, D., Traschütz, A., <u>Kobeleva, X.</u>, … & Deschauer, M. (2022).
-:   Adult-Onset Neurodegeneration in Nucleotide Excision Repair Disorders (NERD<sub>ND</sub>): Time to Move Beyond the Skin.<br><b>Movement Disorders</b>, 37(8), 1707-1718. [→ DOI](https://doi.org/10.1002/mds.29071)
+19: Adult-Onset Neurodegeneration in Nucleotide Excision Repair Disorders (NERD<sub>ND</sub>): Time to Move Beyond the Skin.
+:   Cordts, E., Oender, D., Traschütz, A., <b>Kobeleva, X.</b>, … & Deschauer, M. (2022).<br><b><u>Movement Disorders</u></b>, 37(8), 1707-1718. [→ DOI](https://doi.org/10.1002/mds.29071)
 
-<u>Kobeleva, X.</u>, López-González, A., Kringelbach, M., & Deco, G. (2021).
-:   Revealing the relevant spatiotemporal scale underlying whole-brain dynamics.<br><b>Frontiers of Neuroscience</b>, 15, 715861. [→ DOI](https://doi.org/10.3389/fnins.2021.715861)
+18: Revealing the relevant spatiotemporal scale underlying whole-brain dynamics.
+:   <b>Kobeleva, X.</b>, López-González, A., Kringelbach, M., & Deco, G. (2021).<br><b><u>Frontiers of Neuroscience</u></b>, 15, 715861. [→ DOI](https://doi.org/10.3389/fnins.2021.715861)
 
 <u>Kobeleva, X.</u>, Machts, J., Veit, M., Vielhaber, S., Petri, S., & Schoenfeld, M.A. (2021).
 :   Brain activity is contingent on neuropsychological function in an fMRI study of Verbal Working Memory in Amyotrophic Lateral Sclerosis.<br><b>European Journal of Neurology</b>, 28(89), 3051-3060. [→ DOI](https://doi.org/10.1111/ene.14957)
