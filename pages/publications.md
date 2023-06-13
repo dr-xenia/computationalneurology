@@ -77,8 +77,10 @@ permalink: "/publications/"
 2: Varicella zoster-associated retinal and central nervous system vasculitis in a patient with multiple sclerosis treated with natalizumab.
 :   <b>Kobeleva, X.</b>, Wegner, F., Brunotte, I., Dadak, M., Dengler, R., & Stangel, M. (2014).<br><b><u>Journal of Neuroinflammation</u></b>, 11(1), 19.  [→ DOI](https://doi.org/10.1186/1742-2094-11-19)
 
-
 1: Barriers to novel therapeutics in amyotrophic lateral sclerosis.
 :   <b>Kobeleva, X.</b>, & Petri, S. (2013).<br><b><u>Neurodegenerative Disease Management</u><b/>, 3(6), 525-537.  [→ DOI](https://doi.org/10.2217/nmt.13.66)
 
-<br><br>
+<div style="text-align: center;">
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">‹ Go back to the team page</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">Go to our secion with non-technical information ›</a>
+</div>
