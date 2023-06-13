@@ -14,8 +14,7 @@ permalink           : "/about/"
         grid-template-rows:1fr auto;
         grid-template-areas:
             "content1 img1"
-            "content2 img2"
-            "content3 img3"
+
         grid-gap: 20px;
         margin-bottom: 4em;
     }
@@ -61,7 +60,7 @@ permalink           : "/about/"
 
 
 
-
+		    <p><i>Figure 1: Computational neurology connects a data-driven approach (top left), a model-based approach (bottom left), and clinical data (right). © Xenia Kobeleva</i></p>
 
 The data-driven approach mainly focusses on the analysis of neurological diseases with methods of machine learning in order to identify characteristic properties of the brain structure and brain function as clinical phenotypes. The model-driven approach builds on our findings from the data-driven approach. It formalizes a mechanistic relationship between clinical data and brain function via equations; in doing so, this relationship can be meaningfully interpreted, and it extends and goes beyond mere observations. Simulated brain models exert high congruence with actual brain data (compare Figure 2).
 
