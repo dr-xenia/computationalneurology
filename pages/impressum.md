@@ -19,7 +19,7 @@ E-Mail tbd
 
 
 <div style="text-align: center;">
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">‹ Go back to the information for non-experts</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">‹ Go back to the information for non-experts</a>
 </div>
 
 <br><br>
