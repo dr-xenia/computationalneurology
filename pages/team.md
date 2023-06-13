@@ -89,4 +89,9 @@ permalink           : "/team/"
 - Julian Herrmann
 - Julian Schulte
 
+<div style="text-align: center;">
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/xenia-kobeleva/">‹ Go back to Prof. Kobeleva's profile</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">Get acquainted with the group's publications ›</a>
+</div>
+
 <br><br>
