@@ -31,4 +31,6 @@ This kind of modelling might enable medical doctors to adapt their treatments ba
   <li>Open science</li>
 </ul>
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/xenia-kobeleva/">Read more about Prof. Kobeleva ›</a>
+
 <br><br>
