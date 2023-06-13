@@ -55,7 +55,7 @@ permalink           : "/about/"
 	</div>
   	<div class="img1">
 		<img src="/images/about_approaches.png">
-		    <p><i>Figure 1: Computational neurology connects a data-driven approach (top left), a model-based approach (bottom left), and clinical data (right). © Xenia Kobeleva</i></p>
+
 	</div>
 </div>
 
