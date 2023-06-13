@@ -64,7 +64,7 @@ permalink           : "/team/"
 		<img src="/images/profile_riccardoleone.jpg">
 	</div>
 	<div class="content">
-		<h2 style="margin:0px;">Steven</h2>
+		<h2 style="margin:0px;">Steven Geysen</h2>
 		<p>Postgraduate Research Assistant</p>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
@@ -76,7 +76,7 @@ permalink           : "/team/"
 		<img src="/images/profile_riccardoleone.jpg">
 	</div>
 	<div class="content">
-		<h2 style="margin:0px;">Nahid</h2>
+		<h2 style="margin:0px;">Nahid Hasan</h2>
 		<p>Postgraduate Research Assistant</p>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
@@ -84,10 +84,10 @@ permalink           : "/team/"
 </div>
 
 <h2 style="margin:0px;">Alumni of the Computational Neurology Research Group</h2>
-- YYY
-- YYY
-- YYY
-- YYY
+- Sobhan Moazemi
+- Maher Zoubi
+- Julian Herrmann
+- Julian Schulte
 
 
 
