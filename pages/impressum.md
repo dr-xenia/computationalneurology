@@ -15,4 +15,11 @@ Universitätsstraße 150<br>
 44801 Bochum
 
 Kontakt<br>
-E-Mail
+E-Mail tbd
+
+
+<div style="text-align: center;">
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">‹ Go back to the information for non-experts</a>
+</div>
+
+<br><br>
