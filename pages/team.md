@@ -89,8 +89,4 @@ permalink           : "/team/"
 - Julian Herrmann
 - Julian Schulte
 
-
-
-
-
-
+<br><br>
