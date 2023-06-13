@@ -10,7 +10,7 @@ permalink           : "/xenia-kobeleva/"
 @media (min-width: 500px) {
     .media {
         display: grid;
-        grid-template-columns: fit-content(200px) 1fr;
+        grid-template-columns: fit-content(330px) 1fr;
         grid-template-rows:1fr auto;
         grid-template-areas:
             "image content";
