@@ -84,3 +84,5 @@ permalink: "/publications/"
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">‹ Go back to the team page</a>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">Go to our secion with non-technical information ›</a>
 </div>
+
+<br><br>
