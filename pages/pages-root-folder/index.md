@@ -9,7 +9,7 @@ widget1:
   title: "Meet Prof. Kobeleva"
   url: '/xenia-kobeleva/'
   image: widget_xeniakobeleva.jpg
-  text: 'Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modeling and conducts translational research, focusing on impactful research questions.'
+  text: 'Xenia Kobeleva is an assistant professor in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modeling and conducts translational research, focusing on impactful research questions.'
 widget2:
   title: "Read about our research"
   url: '/about/'
