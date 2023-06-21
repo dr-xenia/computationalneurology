@@ -14,7 +14,7 @@ permalink           : "/non-expert-info/"
    <li>We evaluate biomarkers; these are tools that allow us to detect these diseases earlier (which is necessary in order to apply preventions and early therapies).</li>
    <li>Furthermore, we are interested in bringing digitalization into the medical world in a way that is best for patients and healthcare workers.</li>
 </ul>
-
+<br><br>
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">‹ Go back to the group's list of publications</a>
