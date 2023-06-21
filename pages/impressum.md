@@ -15,7 +15,7 @@ Universitätsstraße 150<br>
 44801 Bochum
 
 Kontakt<br>
-E-Mail tbd
+mail -ατ- computationalneurology.com
 
 
 <div style="text-align: center;">
