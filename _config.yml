@@ -173,7 +173,7 @@ favicon-16x16                        : 'favicon-16x16.png'
 manifest                             : 'manifest.json'
 msapplication_tilecolor              : '#ffffff'
 msapplication_tileimage              : 'ms-icon-144x144.png'
-theme-color                          : '#ffffff'
+theme_color                          : '#ffffff'
 
 
 #       ______                __                __
