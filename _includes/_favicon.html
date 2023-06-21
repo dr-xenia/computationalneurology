@@ -18,13 +18,13 @@
 
 {% if site.touch-icon-192x192 %}<link rel="icon" type="image/png" sizes="192x192" href="{{ "/assets/img/" | absolute_url }}{{ site.touch-icon-192x192 }}">{% endif %}
 
-% if site.favicon-32x32 %}<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
+{% if site.favicon-32x32 %}<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
 
-% if site.favicon-96x96 %}<link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-96x96 }}">{% endif %}
+{% if site.favicon-96x96 %}<link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-96x96 }}">{% endif %}
 
-% if site.favicon-16x16 %}<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-16x16 }}">{% endif %}
+{% if site.favicon-16x16 %}<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/" | absolute_url }}{{ site.favicon-16x16 }}">{% endif %}
 
-% if site.manifest %}<link rel="manifest" href="{{ "/assets/img/" | absolute_url }}{{ site.manifest }}">{% endif %}
+{% if site.manifest %}<link rel="manifest" href="{{ "/assets/img/" | absolute_url }}{{ site.manifest }}">{% endif %}
 	
 {% if site.msapplication_tilecolor %}<meta name="msapplication-TileColor" content="{{ site.msapplication_tilecolor }}">{% endif %}
 
