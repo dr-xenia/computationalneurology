@@ -83,7 +83,7 @@ permalink           : "/team/"
 	</div>
 </div>
 
-<h2 style="margin:0px;">Alumni of the Computational Neurology Research Group</h2>
+<h2 style="margin:0px;">Alumni</h2>
 - Sobhan Moazemi
 - Maher Zoubi
 - Julian Herrmann
