@@ -66,8 +66,8 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Steven Geysen</h2>
 		<p>Postgraduate Research Assistant</p>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Steven Geysen studied Experimental Psychology at the University of Ghent. He is especially interested in the insights into human behavior that computational models can provide by explaining behavioral and neural data.</p>
+		<p>As a research assistant at the Computational Neurology Research Group, he works on a project about cognitive reserve.</p>
 	</div>
 </div>
 
@@ -78,8 +78,8 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Nahid Hasan</h2>
 		<p>Postgraduate Research Assistant</p>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Nahid Hasan is deeply interested in the exploration of human consciousness using the predictive processing framework and advanced brain imaging techniques. He holds a master’s degree in Neuroscience from the University of Bonn, where he conducted research on neural correlates of biological motion perception using fMRI and MVPA.</p>
+		<p>Currently, as a research assistant in the Computational Neurology Research Group, his primary focus is on developing a Python pipeline for implementing whole-brain dynamical models and employing Bayesian methods to estimate model parameters. Starting from September 2023, he will be transitioning to the Department of Systemic Neurosciences at the University Hospital Hamburg-Eppendorf (UKE) as a PhD student.</p>
 	</div>
 </div>
 
