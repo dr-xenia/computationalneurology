@@ -80,6 +80,9 @@ permalink: "/publications/"
 1: Barriers to novel therapeutics in amyotrophic lateral sclerosis.
 :   <b>Kobeleva, X.</b>, & Petri, S. (2013).<br><b><u>Neurodegenerative Disease Management</u><b/>, 3(6), 525-537.  [→ DOI](https://doi.org/10.2217/nmt.13.66)
 
+
+<br>
+
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/team/">‹ Go back to the team page</a>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">Go to our secion with non-technical information ›</a>
