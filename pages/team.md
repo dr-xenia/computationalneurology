@@ -88,20 +88,15 @@ permalink           : "/team/"
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Alumni</h2>
-- Sobhan Moazemi
-- Maher Zoubi
-- Julian Herrmann
-- Julian Schulte
+		<ul>
+    			<li>Sobhan Moazemi</li>
+			<li>Maher Zoubi</li>
+			<li>Julian Herrmann</li>
+			<li>Julian Schulte</li>
+		</ul>
 	</div>
 </div>
 
-<h2 style="margin:0px;">Alumni</h2>
-- Sobhan Moazemi
-- Maher Zoubi
-- Julian Herrmann
-- Julian Schulte
-
-<br>
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/xenia-kobeleva/">‹ Go back to Prof. Kobeleva's profile</a>
