@@ -66,8 +66,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Steven Geysen</h2>
 		<p>Postgraduate Research Assistant</p>
-		<p>Steven Geysen studied Experimental Psychology at the University of Ghent. He is especially interested in the insights into human behavior that computational models can provide by explaining behavioral and neural data.</p>
-		<p>As a research assistant at the Computational Neurology Research Group, he works on a project about cognitive reserve.</p>
+		<p>Steven Geysen studied Experimental Psychology at the University of Ghent. He is especially interested in the insights into human behavior that computational models can provide by explaining behavioral and neural data. As a research assistant at the Computational Neurology Research Group, he works on a project about cognitive reserve.</p>
 	</div>
 </div>
 
