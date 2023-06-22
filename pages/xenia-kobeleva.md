@@ -47,7 +47,8 @@ permalink           : "/xenia-kobeleva/"
 		    <li>my <a href="https://scholar.google.com/citations?user=tlMCbgwAAAAJ">Google Scholar profile</a>,</li>
 		    <li>and my <a href="https://www.researchgate.net/profile/Xenia-Kobeleva">Research Gate profile</a>.</li>
 	    </ul>
-	In addition, you may also
+    </p>
+    <p>In addition, you may also
 	     <ul>
 		    <li>follow my tweets on <a href="https://twitter.com/dr_xenia">Twitter</a>,</li>
 		    <li>and check my <a href="https://github.com/dr-xenia">Github page</a>.</li>
