@@ -14,7 +14,7 @@ Ruhr-Universität Bochum<br>
 Universitätsstraße 150<br>
 44801 Bochum
 
-Kontakt<br>
+<b>Kontakt</b><br>
 mail -ατ- computationalneurology.com
 
 This website is based on the <a href="https://jekyllrb.com/">Jekyll</a> template <a href="https://github.com/Phlow/feeling-responsive/">Feeling Responsive</a> by <a href="https://phlow.de/">Phlow</a>. <br>
