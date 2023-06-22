@@ -83,6 +83,18 @@ permalink           : "/team/"
 	</div>
 </div>
 
+<div class="media">
+	<div class="img">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Alumni</h2>
+- Sobhan Moazemi
+- Maher Zoubi
+- Julian Herrmann
+- Julian Schulte
+	</div>
+</div>
+
 <h2 style="margin:0px;">Alumni</h2>
 - Sobhan Moazemi
 - Maher Zoubi
