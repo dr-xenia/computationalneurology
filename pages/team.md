@@ -82,6 +82,8 @@ permalink           : "/team/"
 		<p>Currently, as a research assistant in the Computational Neurology Research Group, his primary focus is on developing a Python pipeline for implementing whole-brain dynamical models and employing Bayesian methods to estimate model parameters. Starting from September 2023, he will be transitioning to the Department of Systemic Neurosciences at the University Hospital Hamburg-Eppendorf (UKE) as a PhD student.</p>
 
 
+		<br><br>
+
 		<h2 style="margin:0px;">Alumni</h2>
 		<ul>
     			<li>Sobhan Moazemi</li>
@@ -94,19 +96,6 @@ permalink           : "/team/"
 	</div>
 </div>
 
-<div class="media">
-	<div class="img">
-	</div>
-	<div class="content">
-		<h2 style="margin:0px;">Alumni</h2>
-		<ul>
-    			<li>Sobhan Moazemi</li>
-			<li>Maher Zoubi</li>
-			<li>Julian Herrmann</li>
-			<li>Julian Schulte</li>
-		</ul>
-	</div>
-</div>
 
 
 <div style="text-align: center;">
