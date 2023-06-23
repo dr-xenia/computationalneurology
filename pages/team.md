@@ -97,7 +97,6 @@ permalink           : "/team/"
 	</div>
 </div>
 
-<br>
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/xenia-kobeleva/">‹ Go back to Prof. Kobeleva's profile</a>
