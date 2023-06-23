@@ -43,7 +43,7 @@ permalink           : "/team/"
 		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
 		<p>Research Group Leader</p>
 		<p>Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (faculty of medicine). She is an expert in neurodegenerative diseases and brain modelling and affiliated with several leading brain research institutions, such as UPF’s computational neuroscience lab and the German Center for Neurodegenerative Diseases (DZNE). As a physician by training, she identifies as a translational neuroscientist, attaining research questions from the bedside, studying them in the lab, and bringing solutions back to the bedside.</p>
-		<p>For more information on Xenia Kobeleva, please see her <a href="https://computationalneurology.com/xenia-kobeleva">personal sub-page</a>.</p>
+		<p>For more information on Xenia Kobeleva, please see her <a href="https://computationalneurology.com/xenia-kobeleva">personal page</a>.</p>
 	</div>
 </div>
 
