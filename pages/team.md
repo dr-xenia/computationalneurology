@@ -61,6 +61,17 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
+		<img src="/images/profile_franziskamariafuchs.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Franziska-Maria Fuchs</h2>
+		<p>MD Candidate</p>
+		<p>Franziska-Maria Fuchs has been studying Medicine at the University of Bonn since 2019 and joined the Computational Neurology Group in 2023. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
+	</div>
+</div>
+
+<div class="media">
+	<div class="img">
 		<img src="/images/profile_stevengeysen.jpg">
 	</div>
 	<div class="content">
