@@ -7,6 +7,8 @@ permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
 
+25: Performance evaluation of automated white matter hyperintensity segmentation algorithms in a multicenter cohort on cognitive impairment and dementia.
+:   Gaubert, M., Dell’Orco, … & DELCODE Study Group (Kobeleva, X. part of DECLODE Study Group) (2023).<br><b><u>Frontiers in Psychiatry</u></b>, 13, 1010273.  [→ DOI](https://doi.org/10.3389/fpsyt.2022.1010273)
 
 24: Linking early-life bilingualism and cognitive advantage in older adulthood.
 :   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group (2023).<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
