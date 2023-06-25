@@ -45,6 +45,7 @@ permalink           : "/xenia-kobeleva/"
     To get acquainted with my individual research contributions, please see 
 	    <ul>
 		    <li>the <a href="/publications/">publications page</a> on this website,</li>
+		    <li>my <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Kobeleva+Xenia">PubMed records</a>,</li>
 		    <li>my <a href="https://scholar.google.com/citations?user=tlMCbgwAAAAJ">Google Scholar profile</a>,</li>
 		    <li>and my <a href="https://www.researchgate.net/profile/Xenia-Kobeleva">Research Gate profile</a>.</li>
 	    </ul>
