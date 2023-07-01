@@ -37,6 +37,10 @@ permalink: "/publications/"
 16: Clinically applicable quantitative magnetic resonance morphologic measurements of grey matter changes in the human brain.
 :   Fu, T., <b>Kobeleva, X.</b>, Bronzlik, P., Nösel, P., Dadak, M., Lanfermann, H., Petri, S., Ding X. (2021).<br><b><u>Brain Sciences</u></b>, 11(1), 55.  [→ DOI](https://doi.org/10.3390/brainsci11010055)
 
+8
+
+9
+
 15: Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers—results from the DELCODE study.
 :   Sannemann, L., Schild, A.-K., … <b>Kobeleva, X.</b>, … & Jessen, F. (2020).<br><b><u>Alzheimer's Research & Therapy</u></b>, 12(1), 1-11.  [→ DOI](https://doi.org/10.1186/s13195-020-00701-7)
 
@@ -64,6 +68,8 @@ permalink: "/publications/"
 7: Safety and efficacy of ozanezumab in patients with amyotrophic lateral sclerosis: a randomised, double-blind, placebo-controlled, phase 2 trial.
 :   Meininger, V., Genge, A., … & NOG112264 Study Group (<b>Kobeleva, X.</b> part of NOG112264 Study Group) (2017).<br><b><u>The Lancet Neurology</u></b>, 16(3), 208-216.  [→ DOI](https://doi.org/10.1016/S1474-4422(16)30399-4)
 
+7
+
 6: Working memory network changes in ALS: an fMRI Study.
 :   Vellage, A. K., Veit, M., <b>Kobeleva, X.</b>, Petri, S., Vielhaber, S., & Müller, N. G. (2016).<br><b><u>Frontiers in Neuroscience</u></b>, 10, 158.  [→ DOI](https://doi.org/10.3389/fnins.2016.00158)
 
@@ -73,15 +79,27 @@ permalink: "/publications/"
 4: Hilfsmittelversorgung bei der amyotrophen Lateralsklerose *(in German language)*.
 :   Funke, A., Grehl, T., Großkreutz, J., Münch, C., Walter, B., Kettemann, D., … <b>Kobeleva, X.</b>, … & Meyer, T. (2015).<br><b><u>Der Nervenarzt</u></b>, 86(8), 1007-1017.  [→ DOI](https://doi.org/10.1007/s00115-015-4398-2)
 
+6
+
 3: Dissociation of explicit and implicit measures of the behavioral inhibition and activation system in borderline personality disorder.
 :   <b>Kobeleva, X.</b>, Seidel, E. M., Kohler, C., Schneider, F., Habel, U., & Derntl, B. (2014).<br><b><u>Psychiatry Research</u></b>, 218(1-2), 134-142.  [→ DOI](https://doi.org/10.1016/j.psychres.2014.04.027)
+
+5
 
 2: Varicella zoster-associated retinal and central nervous system vasculitis in a patient with multiple sclerosis treated with natalizumab.
 :   <b>Kobeleva, X.</b>, Wegner, F., Brunotte, I., Dadak, M., Dengler, R., & Stangel, M. (2014).<br><b><u>Journal of Neuroinflammation</u></b>, 11(1), 19.  [→ DOI](https://doi.org/10.1186/1742-2094-11-19)
 
+4
+
+3
+
 1: Barriers to novel therapeutics in amyotrophic lateral sclerosis.
 :   <b>Kobeleva, X.</b>, & Petri, S. (2013).<br><b><u>Neurodegenerative Disease Management</u><b/>, 3(6), 525-537.  [→ DOI](https://doi.org/10.2217/nmt.13.66)
 
+2
+
+1: Nachwuchsarbeit 2011 auf nationaler und europäischer Ebene: Die Aktivitäten der Jungen Neurologen und der EAYNT *(in German language)*.
+:   Holler, N., <b>Kobeleva, X.</b>, Hilienhof, A., Wolz, M., & Sellner, J. (2011).<br><b><u>Aktuelle Neurologie</u><b/>, 38(01), 45-47.  [→ DOI](https://doi.org/10.1055/s-0030-1266062)
 
 <br>
 
