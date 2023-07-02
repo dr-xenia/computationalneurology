@@ -89,14 +89,17 @@ permalink: "/publications/"
 6: Varicella zoster-associated retinal and central nervous system vasculitis in a patient with multiple sclerosis treated with natalizumab.
 :   <b>Kobeleva, X.</b>, Wegner, F., Brunotte, I., Dadak, M., Dengler, R., & Stangel, M. (2014).<br><b><u>Journal of Neuroinflammation</u></b>, 11(1), 19.  [→ DOI](https://doi.org/10.1186/1742-2094-11-19)
 
-5: 4
+5: DGN-Kongress 2013. Wo muss ich hin? – Medizin für kluge Köpfe *(in German language)*.
+:   Ossig, C., <b>Kobeleva, X.</b>, Wilcken, S., Müller, L., Bernhard, F., & Angermaier, A. (2013).<br><b><u>NeuroTransmitter</u></b>, S1/2013, 50-52.  [→ DOI](https://www.springermedizin.de/wo-muss-ich-hin-medizin-und-mehr-fuer-kluge-koepfe/9317426)
 
-4: 3
+4: The European Association of Young Neurologists and Trainees in 2013: striking a blow for European junior neurologists.
+:   Macerollo, A., Varga, E. T., Györfi, O., <b>Kobeleva, X.</b>, Paterson, R. W., & Sellner, J. (2013).<br><b><u>European Journal of Neurology</u></b>, 20(4), e54-e58.  [→ DOI](https://doi.org/10.1111/ene.12114)
 
 3: Barriers to novel therapeutics in amyotrophic lateral sclerosis.
 :   <b>Kobeleva, X.</b>, & Petri, S. (2013).<br><b><u>Neurodegenerative Disease Management</u><b/>, 3(6), 525-537.  [→ DOI](https://doi.org/10.2217/nmt.13.66)
 
-2: 2
+2: E-learning preferences of European junior neurologists—an EAYNT survey.
+:   Sztriha, L. K., Varga, E. T., Róna-Vörös, K., Holler, N., Ilea, R., <b>Kobeleva, X.</b>, ... & Sellner, J. (2012).<br><b><u>Frontiers in Neurology</u><b/>, 3, 167. [→ DOI](https://doi.org/10.3389/fneur.2012.00167)
 
 1: Nachwuchsarbeit 2011 auf nationaler und europäischer Ebene: Die Aktivitäten der Jungen Neurologen und der EAYNT *(in German language)*.
 :   Holler, N., <b>Kobeleva, X.</b>, Hilienhof, A., Wolz, M., & Sellner, J. (2011).<br><b><u>Aktuelle Neurologie</u><b/>, 38(01), 45-47.  [→ DOI](https://doi.org/10.1055/s-0030-1266062)
