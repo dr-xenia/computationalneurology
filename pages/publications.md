@@ -37,9 +37,11 @@ permalink: "/publications/"
 25: Clinically applicable quantitative magnetic resonance morphologic measurements of grey matter changes in the human brain.
 :   Fu, T., <b>Kobeleva, X.</b>, Bronzlik, P., Nösel, P., Dadak, M., Lanfermann, H., Petri, S., Ding X. (2021).<br><b><u>Brain Sciences</u></b>, 11(1), 55.  [→ DOI](https://doi.org/10.3390/brainsci11010055)
 
-24: 8
+24: Brainhack: Developing a culture of open, inclusive, community-driven neuroscience.
+:   Gau, R., Noble, S., …, <b>Kobeleva, X.</b>, … & The Brainhack Community (2021).<br><b><u>Neuron</u></b>, 109(11), 1769-1775.  [→ DOI](https://doi.org/10.1016/j.neuron.2021.04.001)
 
-23: 9
+23: Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective.
+:   Levitis, E., van Praag, CDG, …, <b>Kobeleva, X.</b>, … & Maumet, C. (2021).<br><b><u>GigaScience</u></b>, 10(8), giab051.  [→ DOI](https://doi.org/10.1093/gigascience/giab051)
 
 22: Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers—results from the DELCODE study.
 :   Sannemann, L., Schild, A.-K., … <b>Kobeleva, X.</b>, … & Jessen, F. (2020).<br><b><u>Alzheimer's Research & Therapy</u></b>, 12(1), 1-11.  [→ DOI](https://doi.org/10.1186/s13195-020-00701-7)
