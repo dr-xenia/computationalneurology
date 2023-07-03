@@ -71,7 +71,7 @@ permalink: "/publications/"
 :   Meininger, V., Genge, A., … & NOG112264 Study Group (<b>Kobeleva, X.</b> part of NOG112264 Study Group) (2017).<br><b><u>The Lancet Neurology</u></b>, 16(3), 208-216.  [→ DOI](https://doi.org/10.1016/S1474-4422(16)30399-4)
 
 13: Forschung für Alle in der Junge-Neurologen-Postersession *(in German language)*.
-:   <b>Kobeleva, X. (2017)</b>.<br><b><u>NeuroTransmitter</u></b>, S1/2017, 54.  [→ DOI](https://www.springermedizin.de/forschung-fuer-alle-in-der-junge-neurologen-postersession/14993934)
+:   <b>Kobeleva, X.</b> (2017).<br><b><u>NeuroTransmitter</u></b>, S1/2017, 54.  [→ DOI](https://www.springermedizin.de/forschung-fuer-alle-in-der-junge-neurologen-postersession/14993934)
 
 12: Working memory network changes in ALS: an fMRI Study.
 :   Vellage, A. K., Veit, M., <b>Kobeleva, X.</b>, Petri, S., Vielhaber, S., & Müller, N. G. (2016).<br><b><u>Frontiers in Neuroscience</u></b>, 10, 158.  [→ DOI](https://doi.org/10.3389/fnins.2016.00158)
