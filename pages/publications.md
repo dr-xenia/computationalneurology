@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Publications"
 subheadline: ""
-teaser: "(Peer-reviewed journal articles)"
+teaser: ""
 permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
