@@ -41,5 +41,5 @@ permalink: /index.html
 #
 homepage: true
 ---
-
+<p></p>
 <img src="/images/home_grouppicture_computationalneurology_xeniakobeleva.jpg">
