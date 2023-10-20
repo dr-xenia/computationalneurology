@@ -7,20 +7,20 @@ teaser              : "We are looking for new members of the research group!"
 permalink           : "/join-our-team/"
 ---
 
-If you are interested in our work, we encourage you to apply to join the Computational Neurology Research Group.
+<p>If you are interested in our work, we encourage you to apply to join the Computational Neurology Research Group.</p>
 
 <b>Students</b>
 
-We welcome students who are interested in experimental and theoretical analyses of pathological oscillations in neurodegeneration and their modulation with neurostimulation, as well as explorations of dynamical models and model fitting.
+<p>We welcome students who are interested in experimental and theoretical analyses of pathological oscillations in neurodegeneration and their modulation with neurostimulation, as well as explorations of dynamical models and model fitting.</p>
 
-You may join us for:
+<p>You may join us for:</p>
 	<ul>
 		<li>master's theses,</li>
 		<li>doctoral theses,</li>
 		<li>and internships.</li>
 	</ul>
 
-Due to the group's interdisciplinary orientation, we are open to students from different fields:
+<p>Due to the group's interdisciplinary orientation, we are open to students from different fields:</p>
 	<ul>
 		<li>Medicine,</li>
 		<li>Computer Science,</li>
@@ -30,11 +30,11 @@ Due to the group's interdisciplinary orientation, we are open to students from d
 		<li>and related fields.</li>
 	</ul>
 
-If you are interested, please send us an e-mail with your CV and a short statement of motivation.
+<p>If you are interested, please send us an e-mail with your CV and a short statement of motivation.</p>
 
 <b>Academic Staff</b>
 
-Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail with your CV and a short statement of motivation.
+<p>Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail with your CV and a short statement of motivation.</p>
 <br><br>
 
 <div style="text-align: center;">
