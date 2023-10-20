@@ -12,7 +12,7 @@ As translational researchers, we focus on bringing scientific discoveries back t
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">‹ Go back to the group's list of publications</a>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/impressum/">Continue to our recruiting section ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/join-our-team/">Continue to our recruiting section ›</a>
 </div>
 
 <br><br>
