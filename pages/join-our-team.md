@@ -7,6 +7,7 @@ teaser              : "If you are interested in our work, we encourage you to ap
 permalink           : "/join-our-team/"
 ---
 <div>
+<p></p>
 <b>Students</b>
 
 <p>We welcome students who are interested in experimental and theoretical analyses of pathological oscillations in neurodegeneration and their modulation with neurostimulation, as well as explorations of dynamical models and model fitting.</p>
