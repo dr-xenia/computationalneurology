@@ -3,11 +3,9 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Join our Team!"
 subheadline         : ""
-teaser              : "We are looking for new members of the research group!"
+teaser              : "If you are interested in our work, we encourage you to apply to join the Computational Neurology Research Group."
 permalink           : "/join-our-team/"
 ---
-
-<p>If you are interested in our work, we encourage you to apply to join the Computational Neurology Research Group.</p>
 
 <b>Students</b>
 
