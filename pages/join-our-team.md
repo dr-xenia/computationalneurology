@@ -39,8 +39,8 @@ permalink           : "/join-our-team/"
 </div>
 
 <div style="text-align: center;">
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/publications/">‹ Go back to the information for non-experts</a>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">Continue to this website's imprint ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">‹ Go back to the information for non-experts</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/impressum/">Continue to this website's imprint ›</a>
 </div>
 
 <br><br>
