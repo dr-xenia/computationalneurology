@@ -24,7 +24,7 @@ The favicon is taken from <a href="https://twemoji.twitter.com/">Twitter's open-
 <br>
 
 <div style="text-align: center;">
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">‹ Go back to our recruiting section</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/join-our-team/">‹ Go back to our recruiting section</a>
 </div>
 
 <br><br>
