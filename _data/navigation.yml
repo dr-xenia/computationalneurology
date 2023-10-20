@@ -22,7 +22,11 @@
 #  url: "/collaborations/"
 #  side: left
 
-- title: "Non‐expert info"
+- title: "Join our Team!"
+  url: "/join-our-team/"
+  side: left
+
+- title: "Non‐expert Info"
   url: "/non-expert-info/"
   side: left
 
