@@ -29,12 +29,12 @@ permalink           : "/join-our-team/"
 		<li>and related fields.</li>
 	</ul>
 
-<p>If you are interested, please apply via e-mail with your CV and a short statement of motivation (mail -ατ- computationalneurology.com).</p>
+<p>If you are interested, please apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 
 <p></p>
 <b>Academic Staff</b>
 
-<p>Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail with your CV and a short statement of motivation (mail -ατ- computationalneurology.com).</p>
+<p>Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 <br><br>
 </div>
 
