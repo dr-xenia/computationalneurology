@@ -72,29 +72,6 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="/images/profile_stevengeysen.jpg">
-	</div>
-	<div class="content">
-		<h2 style="margin:0px;">Steven Geysen</h2>
-		<p>Postgraduate Research Assistant</p>
-		<p>Steven Geysen studied Experimental Psychology at the University of Ghent. He is especially interested in the insights into human behavior that computational models can provide by explaining behavioral and neural data. As a research assistant at the Computational Neurology Research Group, he works on a project about cognitive reserve. After finishing his research assistant role at the Computational Neurology Research Group, he will begin his PhD studies at the University of Cologne.</p>
-	</div>
-</div>
-
-<div class="media">
-	<div class="img">
-		<img src="/images/profile_nahidhasan.jpg">
-	</div>
-	<div class="content">
-		<h2 style="margin:0px;">Nahid Hasan</h2>
-		<p>Postgraduate Research Assistant</p>
-		<p>Nahid Hasan is deeply interested in the exploration of human consciousness using the predictive processing framework and advanced brain imaging techniques. He holds a master’s degree in Neuroscience from the University of Bonn, where he conducted research on neural correlates of biological motion perception using fMRI and MVPA.</p>
-		<p>Currently, as a research assistant in the Computational Neurology Research Group, his primary focus is on developing a Python pipeline for implementing whole-brain dynamical models and employing Bayesian methods to estimate model parameters. In the second half of 2023, he will be transitioning to the Department of Systemic Neurosciences at the University Hospital Hamburg-Eppendorf (UKE) as a PhD student.</p>  
-	</div>
-</div>
-
-<div class="media">
-	<div class="img">
 		<img src="/images/profile_spacer.jpg">
 	</div>
 	<div class="content">
@@ -104,6 +81,8 @@ permalink           : "/team/"
 			<li>Maher Zoubi</li>
 			<li>Julian Herrmann</li>
 			<li>Julian Schulte</li>
+			<li>Steven Geysen</li>
+			<li>Nahid Hasan</li>
 		</ul>
 	</div>
 </div>
