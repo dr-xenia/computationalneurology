@@ -11,7 +11,7 @@ permalink: "/publications/"
 :   Patow, G., Stefanovski, L., Ritter, P. Deco, G, & <b>Kobeleva, X.</b> (for the Alzheimer’s Disease Neuroimaging Initiative) (2023).<br><b><u>Alzheimer's Research & Therapy</u></b>, 15, 210.  [→ DOI](https://doi.org/10.1186/s13195-023-01349-9)
 
 34: Performance evaluation of automated white matter hyperintensity segmentation algorithms in a multicenter cohort on cognitive impairment and dementia.
-:   Gaubert, M., Dell’Orco, … & DELCODE Study Group (<b>Kobeleva, X.</b> part of DECLODE Study Group) (2023).<br><b><u>Frontiers in Psychiatry</u></b>, 13, 1010273.  [→ DOI](https://doi.org/10.3389/fpsyt.2022.1010273)
+:   Gaubert, M., Dell’Orco, A., … & DELCODE Study Group (<b>Kobeleva, X.</b> part of DECLODE Study Group) (2023).<br><b><u>Frontiers in Psychiatry</u></b>, 13, 1010273.  [→ DOI](https://doi.org/10.3389/fpsyt.2022.1010273)
 
 33: Linking early-life bilingualism and cognitive advantage in older adulthood.
 :   Ballarini, T., Kuhn, E., Röske, S., … <b>Kobeleva, X.</b>, … & DELCODE Study Group (2023).<br><b><u>Neurobiology of Aging</u></b>, 124, 18-28.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2022.12.005)
