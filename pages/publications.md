@@ -8,7 +8,7 @@ permalink: "/publications/"
 `Asterisks * indicate joint first authors`
 
 35: Whole-brain modeling of the differential influences of amyloid-beta and tau in Alzheimer's disease.
-:   Patow, G., Stefanovski, L., Ritter, P., Deco, G, & <b>Kobeleva, X.</b> (for the Alzheimer’s Disease Neuroimaging Initiative) (2023).<br><b><u>Alzheimer's Research & Therapy</u></b>, 15, 210.  [→ DOI](https://doi.org/10.1186/s13195-023-01349-9)
+:   Patow, G., Stefanovski, L., Ritter, P., Deco, G., & <b>Kobeleva, X.</b> (for the Alzheimer’s Disease Neuroimaging Initiative) (2023).<br><b><u>Alzheimer's Research & Therapy</u></b>, 15, 210.  [→ DOI](https://doi.org/10.1186/s13195-023-01349-9)
 
 34: Performance evaluation of automated white matter hyperintensity segmentation algorithms in a multicenter cohort on cognitive impairment and dementia.
 :   Gaubert, M., Dell’Orco, A., … & DELCODE Study Group (<b>Kobeleva, X.</b> part of DECLODE Study Group) (2023).<br><b><u>Frontiers in Psychiatry</u></b>, 13, 1010273.  [→ DOI](https://doi.org/10.3389/fpsyt.2022.1010273)
