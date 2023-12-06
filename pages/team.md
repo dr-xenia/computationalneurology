@@ -72,6 +72,17 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
+		<img src="/images/profile_briandqeriqi.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Briand Qeriqi</h2>
+		<p>MD Candidate</p>
+		<p>Briand Qeriqi has been studying medicine at Ruhr University Bochum since 2021. He joined the Computational Neurology Group in 2023 for undertaking research for his doctoral thesis. His work focuses on clinical-experimental research in the field of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), utilizing imaging techniques such as functional Magnetic Resonance Imaging (fMRI) and brain modeling tools.</p>
+	</div>
+</div>
+
+<div class="media">
+	<div class="img">
 		<img src="/images/profile_spacer.jpg">
 	</div>
 	<div class="content">
