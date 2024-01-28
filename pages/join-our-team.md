@@ -30,7 +30,8 @@ permalink           : "/join-our-team/"
 	</ul>
 <p>If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 <p>
-<b>Currently available master theses</b><p>
+<p>
+<b>Currently available master theses and internships</b><p>
 <u>Explore dynamical consequences of neurostimulation using neural mass modeling</u><p>
 Personalization of neurostimulation can improve its efficacy whilst taking into account the increasing complexity of the corresponding technology and the amount of technical choices (regarding stimulation location and stimulation settings). In this project we aim to create a whole-brain neural mass model that can accurately predict the effect of different neurostimulation settings in healthy and neurologically impaired individuals. 
 
