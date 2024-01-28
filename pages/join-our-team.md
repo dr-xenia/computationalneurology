@@ -28,6 +28,7 @@ permalink           : "/join-our-team/"
 		<li>Neurosciene,</li>
 		<li>and related fields.</li>
 	</ul>
+<p>If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 
 <b>Currently available master theses</b><p>
 <u>Explore dynamical consequences of neurostimulation using neural mass modeling</u><p>
