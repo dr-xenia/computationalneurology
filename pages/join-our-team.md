@@ -29,7 +29,7 @@ permalink           : "/join-our-team/"
 		<li>and related fields.</li>
 	</ul>
 
-<b>Currently available master theses</b>
+<b>Currently available master theses</b><p>
 <u>Explore dynamical consequences of neurostimulation using neural mass modeling</u><p>
 Personalization of neurostimulation can improve its efficacy whilst taking into account the increasing complexity of the corresponding technology and the amount of technical choices (regarding stimulation location and stimulation settings). In this project we aim to create a whole-brain neural mass model that can accurately predict the effect of different neurostimulation settings in healthy and neurologically impaired individuals. 
 
