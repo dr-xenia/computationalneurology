@@ -8,7 +8,7 @@ permalink           : "/about/"
 ---
 We are a small research group at Ruhr University Bochum (Faculty of Medicine), consisting of [Prof. Dr. Xenia Kobeleva](/xenia-kobeleva/) and her [team](/team/).
 
-In the Computational Neurology group, we answer clinical relevant questions in the field of neuropsychiatry using computational methods. We analyze clinical and neuroimaging data using both a data-driven and a modelling-based approach (see Figure 1). This integration helps generating a better (qualitative) and robust (quantitative) understanding of pathophysiological processes of neurological diseases, as well as their diagnosis and treatment.
+In the Computational Neurology group, we answer clinical relevant questions in the field of neuropsychiatry using computational methods. We analyze clinical and neuroimaging data using both data-driven and theory-based modeling. This integration helps generating a better (qualitative) and robust (quantitative) understanding of pathophysiological processes of neurological diseases, as well as their diagnosis and treatment.
 
 <img class="center" style="width:400px;" src="/images/about_approaches.png"><br>
 *Figure 1: Computational neurology connects a data-driven approach (top left), a model-based approach (bottom left), and clinical data (right). © Xenia Kobeleva*
