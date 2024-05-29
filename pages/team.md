@@ -89,7 +89,7 @@ permalink           : "/team/"
 		<h2 style="margin:0px;">
 Pegah Majlessi</h2>
 		<p>Student Research Assistant and Master's student</p>
-		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she works as a student research assistant and also working on her master thesis on EEG dynamics</p>
+		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she works as a student research assistant and also working on her master thesis on EEG dynamics.</p>
 	</div>
 </div>
 
