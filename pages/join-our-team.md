@@ -36,12 +36,11 @@ permalink           : "/join-our-team/"
 <p>Currently available topics are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>.
 </p>
 
-<p>If you are interested, please apply via e-mail (mail -ατ- computationalneurology.com) with your CV, a short statement of motivation and your availability (preferred starting date/duration/hours per week available for project).</p>
 
 <p></p>
 <b>Academic Staff</b>
 
-<p>Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
+<p>Currently, we do not have any openings for research assistants or post-docs.</p>
 
 <br><br>
 
