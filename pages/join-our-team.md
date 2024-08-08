@@ -41,7 +41,6 @@ permalink           : "/join-our-team/"
 
 <p>Currently, we do not have any openings for research assistants or post-docs. If you would like to become a student assistant for the research group (master level), please contact us via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 <br><br>
-</div>
 
 <div style="text-align: center;">
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/non-expert-info/">‹ Go back to the information for non-experts</a>
