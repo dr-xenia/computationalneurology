@@ -32,8 +32,7 @@ permalink           : "/join-our-team/"
 <p>
 <p>
 <b>Currently available master theses and internships</b><p>
-<u>Explore dynamical consequences of neurostimulation using neural mass modeling</u><p>
-Personalization of neurostimulation can improve its efficacy whilst taking into account the increasing complexity of the corresponding technology and the amount of technical choices (regarding stimulation location and stimulation settings). In this project we aim to create a whole-brain neural mass model that can accurately predict the effect of different neurostimulation settings in healthy and neurologically impaired individuals. 
+<u>Currently available theses are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website</a>.
 
 <p>If you are interested, please apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 
