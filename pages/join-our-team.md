@@ -33,7 +33,7 @@ permalink           : "/join-our-team/"
 <p>
 <b>Currently available bachelor/ master theses and internships</b><p>
 	
-<p>Currently available theses are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>.
+<p>Currently available topics are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>.
 </p>
 
 <p>If you are interested, please apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
