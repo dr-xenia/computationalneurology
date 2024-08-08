@@ -28,7 +28,7 @@ permalink           : "/join-our-team/"
 		<li>Neurosciene,</li>
 		<li>and related fields.</li>
 	</ul>
-<p>We currently offer thesis supervision of students located at Ruhr University Bochum, TU Dortmund (Data Science) and University of Bonn. Students from other universities should gather information of executing their thesis at another location. For student projects, we are open for students from all universities. If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
+<p>We currently offer thesis supervision of students located at Ruhr University Bochum, TU Dortmund (Data Science) and University of Bonn. Students from other universities should gather information about the formalities of executing their thesis at another location. For student projects, we are open for students from all universities. If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV and a short statement of motivation.</p>
 <p>
 <p>
 <b>Currently available master theses and internships</b><p>
