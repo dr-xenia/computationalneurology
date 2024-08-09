@@ -25,8 +25,8 @@ permalink           : "/join-our-team/"
 		<li>Computer Science,</li>
 		<li>Physics,</li>
 		<li>Mathematics,</li>
-		<li>Neurosciene,</li>
-		<li>and related fields.</li>
+		<li>Neuroscience,</li>
+		<li>and related fields (such as Data Science).</li>
 	</ul>
 <p>We currently offer thesis supervision of students located at Ruhr University Bochum, TU Dortmund (Data Science) and University of Bonn. Students from other universities should gather information about the formalities of executing their thesis at another university/faculty. For internships or student projects, we are open for students from all universities. 
 </p>
