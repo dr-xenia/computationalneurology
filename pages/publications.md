@@ -7,8 +7,11 @@ permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
 
+37: Next-generation phenotyping integrated in a national framework for patients with ultrarare disorders improves genetic diagnostics and yields new molecular findings.
+:   Schmidt, A., Danyel, M., Grundmann, K., … <b>Kobeleva, X.</b>, … & Wagner, M. (2024).<br><b><u>Nature Genetics</u></b>, 56, 1644-1653.  [→ DOI](https://doi.org/10.1038/s41588-024-01836-1)
+
 36: Retinal ganglion cell and microvascular density loss in hereditary spastic paraplegia.
-:   Turski, G., Turski, C., Grobe-Einsler, M., <b>Kobeleva, X.</b>, … & Klockgether, T. (2024).<br><b><u>Restorative Neurology and Neuroscience</u></b>, in press.  [→ DOI](https://doi.org/10.3233/RNN-231380)
+:   Turski, G.N., Turski, C.A., Grobe-Einsler, M., <b>Kobeleva, X.</b>, … & Klockgether, T. (2024).<br><b><u>Restorative Neurology and Neuroscience</u></b>, 41(5-6), 229-239.  [→ DOI](https://doi.org/10.3233/RNN-231380)
 
 35: Whole-brain modeling of the differential influences of amyloid-beta and tau in Alzheimer's disease.
 :   Patow, G., Stefanovski, L., Ritter, P., Deco, G., & <b>Kobeleva, X.</b> (for the Alzheimer’s Disease Neuroimaging Initiative) (2023).<br><b><u>Alzheimer's Research & Therapy</u></b>, 15, 210.  [→ DOI](https://doi.org/10.1186/s13195-023-01349-9)
