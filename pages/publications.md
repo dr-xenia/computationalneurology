@@ -113,7 +113,7 @@ permalink: "/publications/"
 :   <b>Kobeleva, X.</b>, & Petri, S. (2013).<br><b><u>Neurodegenerative Disease Management</u><b/>, 3(6), 525-537.  [→ DOI](https://doi.org/10.2217/nmt.13.66)
 
 3: Neurowissenschaften hautnah – als Doktorandin und Famulantin in der Psychiatrie *(in German language)*.
-:   <b>Kobeleva, X.</b> (2012).<br>In <b><u>Irgendwie kommt es anders: Psychiater erzählen </u><b/>, 133-137.  [→ DOI](https://doi.org/10.1007/978-3-642-20383-1_17)
+:   <b>Kobeleva, X.</b> (2012).<br>In <b><u>Irgendwie kommt es anders: Psychiater erzählen</u><b/>, 133-137.  [→ DOI](https://doi.org/10.1007/978-3-642-20383-1_17)
 
 2: E-learning preferences of European junior neurologists—an EAYNT survey.
 :   Sztriha, L. K., Varga, E. T., Róna-Vörös, K., Holler, N., Ilea, R., <b>Kobeleva, X.</b>, ... & Sellner, J. (2012).<br><b><u>Frontiers in Neurology</u><b/>, 3, 167. [→ DOI](https://doi.org/10.3389/fneur.2012.00167)
