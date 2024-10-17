@@ -41,7 +41,7 @@ permalink           : "/join-our-team/"
 <p></p>
 <b>Academic Staff</b>
 
-<p>Currently, we do not have any openings for research assistants or post-docs.</p>
+<p>Currently, we invite applications for a postdoctoral researcher with experience in neurostimulation starting in 2025. More information <a href="[here](https://www.ini.rub.de/the_institute/jobs/postdoctoral_position_80-100_fmd_in_computational_neurology/)">.</p>
 
 <br><br>
 
