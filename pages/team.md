@@ -67,7 +67,7 @@ permalink           : "/team/"
 		<h2 style="margin:0px;">Shoto Yamada</h2>
 		<p>PhD Candidate</p>
 		<p>Shoto Yamada is a Ph.D. candidate, co-supervised by Prof. Xenia Kobeleva and Prof. Robert Schmidt. He officially joined the Computational Neurology Research Group in October 2024, following his master's thesis project with the same group earlier that year.</p>
-Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochum. His research focuses on developing and applying probabilistic machine learning techniques to analyze electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.</p>
+Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochum. His research focuses on developing and applying probabilistic machine learning techniques to analyze electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.
 	</div>
 </div>
 
