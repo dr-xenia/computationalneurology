@@ -37,8 +37,13 @@ permalink           : "/join-our-team/"
 <p>Currently available topics are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>. If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV, why you selected a specific project from available topics, a short statement of motivation which should outline how your experience enables you to pursue the project, and your availability (preferred starting date/duration/hours per week available for project).
 </p>
 
+<b>Medical doctoral (MD) theses</b><p>
+	
+<p>We offer supervision of MD theses, providing medical students with unique computational skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. 
+</p>
+
 <p></p>
-<b>Academic Staff</b>
+<b>Academic Staff</b><p>
 
 Currently, we do not have any funded open positions. There is a yearly call for DAAD-funded PhD scholarships via the International Graduate School ofr Neurscience at Ruhr-University Bochum (always in Autumn), which would give you an opportunity to work with me, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/)">here</a> for more details on RUB PhD scholarships. In general, happy to supervise PhD projects on computational neuroscience topics given an appropriate funding source, e.g., through a PhD scholarship. If you’re interested in applying for a scholarship please send me a brief sketch of your research proposal.
 
