@@ -39,7 +39,7 @@ permalink           : "/join-our-team/"
 
 <b>Medical doctoral (MD) theses</b><p>
 	
-<p>We offer supervision of MD theses, providing medical students with unique computational skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. 
+<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. 
 </p>
 
 <p></p>
