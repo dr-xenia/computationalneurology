@@ -34,9 +34,9 @@ permalink           : "/join-our-team/"
 <p>
 <b>Currently available bachelor/ master theses and internships</b><p>
 	
-<p>Currently available topics are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>. If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV, why you selected a specific project from available topics, a short statement of motivation which should outline how your experience enables you to pursue the project, and your availability (preferred starting date/duration/hours per week available for project).
+<p>Currently available topics are listed <a href="https://www.ini.rub.de/research/groups/computational_neurology/#available_theses_a_projects">on my institutional website of Ruhr University Bochum</a>. If you are interested, you can apply via e-mail (mail -ατ- computationalneurology.com) with your CV, why you selected a specific project from available topics, a short statement of motivation which should outline how your experience enables you to pursue the project, and your availability (preferred starting date/duration/hours per week available for projects).
 </p>
-
+<p></p>
 <b>Medical doctoral (MD) theses</b><p>
 	
 <p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. 
