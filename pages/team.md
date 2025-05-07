@@ -57,7 +57,7 @@ permalink           : "/team/"
 		<p>Postdoctoral associate</p>
 		<p>Nikolay Syrov obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques. 
 </p>
-		<p>In2025, he joined the Computational Neurology Research Group as a postdoctoral researcher. His current work focuses on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. </p>
+		<p>In 2025, he joined the Computational Neurology Research Group as a postdoctoral researcher. His current work focuses on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. </p>
 	</div>
 </div>
 
@@ -114,7 +114,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	<div class="content">
 		<h2 style="margin:0px;">
 Pegah Majlessi</h2>
-		<p>Student Research Assistant and Master's student</p>
+		<p>Master's student</p>
 		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she worked first as a student research assistant and then on her master thesis on EEG dynamics.</p>
 	</div>
 </div>
