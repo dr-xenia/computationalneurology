@@ -47,6 +47,20 @@ permalink           : "/team/"
 	</div>
 </div>
 
+
+<div class="media">
+	<div class="img">
+		<img src="/images/profile_nikolaisyrov.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Dr. Nikolai Syrov</h2>
+		<p>Postdoctoral associate</p>
+		<p>Nikolay Syrov obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques. 
+</p>
+		<p>In2025, he joined the Computational Neurology Research Group as a postdoctoral researcher. His current work focuses on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. </p>
+	</div>
+</div>
+
 <div class="media">
 	<div class="img">
 		<img src="/images/profile_riccardoleone.jpg">
@@ -70,8 +84,6 @@ permalink           : "/team/"
 Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochum. His research focuses on developing and applying probabilistic machine learning techniques to analyze electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.
 	</div>
 </div>
-
-
 
 <div class="media">
 	<div class="img">
@@ -103,7 +115,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 		<h2 style="margin:0px;">
 Pegah Majlessi</h2>
 		<p>Student Research Assistant and Master's student</p>
-		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she works as a student research assistant and also working on her master thesis on EEG dynamics.</p>
+		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she worked first as a student research assistant and then on her master thesis on EEG dynamics.</p>
 	</div>
 </div>
 
