@@ -6,6 +6,9 @@ teaser: ""
 permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
+41: Alterations in MRI-visible perivascular spaces precede dementia diagnosis by 18 years in autosomal dominant Alzheimer’s disease.
+:   Leone, R., <b>Kobeleva, X.</b>, Rowe, B., Choupan, J., Ringman, J. M., & Barisano, G. (2025).<br><b><u>Alzheimer's & Dementia/u></b>, 21(8), e70588.  [→ DOI](https://doi.org/10.1002/alz.70588)
+
 40: White matter hyperintensities contribute to early cortical thinning in addition to tau in aging.
 :   Leone, R., & <b>Kobeleva, X.</b>. (2025).<br><b><u>Neurobiology of Aging</u></b>, 155, 66-77.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2025.07.007)
 
