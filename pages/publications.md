@@ -6,11 +6,14 @@ teaser: ""
 permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
-41: Alterations in MRI-visible perivascular spaces precede dementia diagnosis by 18 years in autosomal dominant Alzheimer’s disease.
+42: Alterations in MRI-visible perivascular spaces precede dementia diagnosis by 18 years in autosomal dominant Alzheimer’s disease.
 :   Leone, R., <b>Kobeleva, X.</b>, Rowe, B., Choupan, J., Ringman, J. M., & Barisano, G. (2025).<br><b><u>Alzheimer's & Dementia</u></b>, 21(8), e70588.  [→ DOI](https://doi.org/10.1002/alz.70588)
 
-40: White matter hyperintensities contribute to early cortical thinning in addition to tau in aging.
+41: White matter hyperintensities contribute to early cortical thinning in addition to tau in aging.
 :   Leone, R. & <b>Kobeleva, X.</b> (2025).<br><b><u>Neurobiology of Aging</u></b>, 155, 66-77.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2025.07.007)
+
+40: Brain Atrophy Does Not Predict Clinical Progression in Progressive Supranuclear Palsy.
+:   Quattrone, A., Franzmeier, N., … & DESCRIBE-PSP Study Group (<b>Kobeleva, X.</b> part of DESCRIBE-PSP Study Group) (2025).<br><b><u>Movement Disorders</u></b>, online first.  [→ DOI](https://doi.org/10.1002/mds.70026)
 
 39: Beyond Focal Lesions: Dynamical Network Effects of White Matter Hyperintensities.
 :   Leone, R., Geysen, S., Deco, G., & <b>Kobeleva, X.</b> (2024).<br><b><u>Human Brain Mapping</u></b>, 45(17), e70081.  [→ DOI](https://doi.org/10.1002/hbm.70081)
