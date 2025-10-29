@@ -6,6 +6,11 @@ teaser: ""
 permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
+40: White matter hyperintensities contribute to early cortical thinning in addition to tau in aging.
+:   Leone, R., & <b>Kobeleva, X.</b>. (2025).<br><b><u>Neurobiology of Aging</u></b>, 155, 66-77.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2025.07.007)
+
+39: Beyond Focal Lesions: Dynamical Network Effects of White Matter Hyperintensities.
+:   Leone, R., Geysen, S., Deco, G., & <b>Kobeleva, X.</b> (2024).<br><b><u>Human Brain Mapping</u></b>, 45(17), e70081.  [→ DOI](https://doi.org/10.1002/hbm.70081)
 
 38: Next-generation phenotyping integrated in a national framework for patients with ultrarare disorders improves genetic diagnostics and yields new molecular findings.
 :   Schmidt, A., Danyel, M., Grundmann, K., … <b>Kobeleva, X.</b>, … & Wagner, M. (2024).<br><b><u>Nature Genetics</u></b>, 56, 1644-1653.  [→ DOI](https://doi.org/10.1038/s41588-024-01836-1)
