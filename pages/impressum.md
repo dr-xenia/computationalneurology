@@ -19,7 +19,7 @@ mail -ατ- computationalneurology.com
 
 <b>Acknowledgements</b><br>
 This website is based on the <a href="https://jekyllrb.com/">Jekyll</a> template <a href="https://github.com/Phlow/feeling-responsive/">Feeling Responsive</a> by <a href="https://phlow.de/">Phlow</a>. <br>
-The favicon is taken from <a href="https://github.com/jdecked/twemoji/">the Twemoji open-source emoji library</a>.
+The favicon is taken from <a href="https://github.com/jdecked/twemoji/">Twemoji</a>, an open-source emoji library.
 
 <br>
 
