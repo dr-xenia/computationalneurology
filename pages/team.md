@@ -61,17 +61,6 @@ permalink           : "/team/"
 	</div>
 </div>
 
-<div class="media">
-	<div class="img">
-		<img src="/images/profile_riccardoleone.jpg">
-	</div>
-	<div class="content">
-		<h2 style="margin:0px;">Riccardo Leone</h2>
-		<p>PhD Candidate</p>
-		<p>Riccardo Leone obtained his Medical Degree (2016) and his Certificate of Specialization in Radiology (2022) from San Raffaele University in Milan, Italy. Since September 2022, he is a PhD candidate in Neuroscience at the Computational Neurology Research Group.</p>
-		<p>In his research, Riccardo Leone focuses on building whole-brain models of brain functional activity in patients along the dementia spectrum. By incorporating biological observables (e.g., vascular pathology) in these models, he seeks to develop deterministic explanations of how these pathophysiological processes lead to cognitive impairment, and he also aims to develop reliable models that could be used for personalized simulation of treatments to improve patients’ treatment options.</p>
-	</div>
-</div>
 
 <div class="media">
 	<div class="img">
@@ -85,6 +74,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	</div>
 </div>
 
+
 <div class="media">
 	<div class="img">
 		<img src="/images/profile_franziskamariafuchs.jpg">
@@ -95,6 +85,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 		<p>Franziska-Maria Fuchs has been studying Medicine at the University of Bonn since 2019 and joined the Computational Neurology Group in 2023. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
 	</div>
 </div>
+
 
 <div class="media">
 	<div class="img">
@@ -107,17 +98,6 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	</div>
 </div>
 
-<div class="media">
-	<div class="img">
-		<img src="/images/profile_pegahmajlessi.jpg">
-	</div>
-	<div class="content">
-		<h2 style="margin:0px;">
-Pegah Majlessi</h2>
-		<p>Master's student</p>
-		<p>Pegah Majlessi has been pursuing a Master's degree in Electrical and Information Engineering with a focus on Medical Engineering at Ruhr University Bochum since 2020. She joined the Computational Neurology Group in 2024, where she worked first as a student research assistant and then on her master thesis on EEG dynamics.</p>
-	</div>
-</div>
 
 <div class="media">
 	<div class="img">
@@ -146,6 +126,8 @@ Sven Liebthal</h2>
 			<li>Julian Schulte</li>
 			<li>Steven Geysen</li>
 			<li>Nahid Hasan</li>
+			<li>Dr. Riccardo Leone (PhD Student, 2022-2025)</li>
+			<li>Pegah Majlessi (Master's Student, 2024-2025)</li>
 		</ul>
 	</div>
 </div>
