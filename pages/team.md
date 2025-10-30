@@ -54,10 +54,8 @@ permalink           : "/team/"
 	</div>
 	<div class="content">
 		<h2 style="margin:0px;">Dr. Nikolai Syrov</h2>
-		<p>Postdoctoral associate</p>
-		<p>Nikolay Syrov obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques. 
-</p>
-		<p>In 2025, he joined the Computational Neurology Research Group as a postdoctoral researcher. His current work focuses on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. </p>
+		<p>Postdoctoral Associate</p>
+		<p>Nikolay Syrov joined the Computational Neurology Research Group as a postdoctoral researcher in 2025. He currently works on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. He obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques.</p>
 	</div>
 </div>
 
@@ -69,8 +67,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Shoto Yamada</h2>
 		<p>PhD Candidate</p>
-		<p>Shoto Yamada is a Ph.D. candidate, co-supervised by Prof. Xenia Kobeleva and Prof. Robert Schmidt. He officially joined the Computational Neurology Research Group in October 2024, following his master's thesis project with the same group earlier that year.</p>
-Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochum. His research focuses on developing and applying probabilistic machine learning techniques to analyze electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.
+		<p>Shoto Yamada is a PhD candidate at Ruhr University Bochum, co-supervised by Prof. Dr. Xenia Kobeleva and Prof. Dr. Robert Schmidt. He joined the Computational Neurology Research Group in late 2024, following his Master's thesis project that was also supervised by Prof. Kobeleva. Shoto holds a Master's degree in Cognitive Science from Ruhr University Bochum and focuses on the development and application of probabilistic machine learning techniques for the analysis of electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.</p>
 	</div>
 </div>
 
