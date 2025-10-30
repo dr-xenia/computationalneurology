@@ -106,8 +106,8 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	<div class="content">
 		<h2 style="margin:0px;">
 Sven Liebthal</h2>
-		<p>Team assistant</p>
-		<p>Sven Liebthal works as a team assistant in the Computational Neurology group and brings in his economy and management expertise. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over 10 years in the private sector before joining Ruhr University Bochum.</p>
+		<p>Team Assistant</p>
+		<p>Sven Liebthal is the Computational Neurology Research Group's team assistant. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over 10 years in the private sector before joining Ruhr University Bochum. He greatly adds to the group by bringing in his economic and managerial expertise.</p>
 	</div>
 </div>
 
