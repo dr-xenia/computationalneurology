@@ -82,7 +82,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	<div class="content">
 		<h2 style="margin:0px;">Franziska-Maria Fuchs</h2>
 		<p>MD Candidate</p>
-		<p>Franziska-Maria Fuchs has been studying Medicine at the University of Bonn since 2019 and joined the Computational Neurology Group in 2023. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
+		<p>Franziska-Maria Fuchs is a student of medicine at the University of Bonn and joined the Computational Neurology Research Group in 2023 for pursuing her doctoral thesis. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
 	</div>
 </div>
 
@@ -94,7 +94,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 	<div class="content">
 		<h2 style="margin:0px;">Briand Qeriqi</h2>
 		<p>MD Candidate</p>
-		<p>Briand Qeriqi has been studying medicine at Ruhr University Bochum since 2021. He joined the Computational Neurology Group in 2023 for pursuing his doctoral thesis. His work focuses on clinical-experimental research in the field of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), utilizing imaging techniques such as functional Magnetic Resonance Imaging (fMRI) and brain modeling tools.</p>
+		<p>Briand Qeriqi is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Research Group in 2023 for pursuing his doctoral thesis. He conducts clinical-experimental research in the field of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), utilizing imaging techniques such as functional Magnetic Resonance Imaging (fMRI) and brain modeling tools.</p>
 	</div>
 </div>
 
@@ -107,7 +107,7 @@ Shoto obtained a Master's degree in Cognitive Science from Ruhr University Bochu
 		<h2 style="margin:0px;">
 Sven Liebthal</h2>
 		<p>Team Assistant</p>
-		<p>Sven Liebthal is the Computational Neurology Research Group's team assistant. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over 10 years in the private sector before joining Ruhr University Bochum. He greatly adds to the group by bringing in his economic and managerial expertise.</p>
+		<p>Sven Liebthal is the Computational Neurology Research Group's team assistant. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over ten years in the private sector before joining Ruhr University Bochum. He greatly adds to the group by bringing in and applying his economic and managerial expertise.</p>
 	</div>
 </div>
 
