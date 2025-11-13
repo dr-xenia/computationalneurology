@@ -51,7 +51,8 @@ permalink           : "/xenia-kobeleva/"
 	    </ul>
     In addition, you may also
 	     <ul>
-		    <li>follow my tweets on <a href="https://twitter.com/dr_xenia">Twitter</a>,</li>
+			<li>follow my posts on <a href="https://bsky.app/profile/compneurology.bsky.social">Bluesky</a>,</li>
+		    <li>follow my posts on <a href="https://x.com/dr_xenia">X</a> (legacy),</li>
 		    <li>and check my <a href="https://github.com/dr-xenia">Github page</a>.</li>
 	    </ul>
     <p>A non-technical description of my group’s research, addressed to a non-expert audience, is availabe at the <a href="/non-expert-info/">non-expert information page</a> and information for German patients can soon be found at the "Patienten-Informations-Seite" (in German language) (under construction).</p>
