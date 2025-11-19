@@ -98,6 +98,18 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
+		<img src="/images/profile_robinrademacher.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Robin Rademacher</h2>
+		<p>MD Candidate</p>
+		<p>Robin Rademacher is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Research Group in 2025 for pursuing his doctoral thesis. He investigates age-related alterations in neurophysiological correlates of visual working memory, recording cortical activity via electroencephalography (EEG) during different stages of the memory process and utilizing transcranial magnetic stimulation (TMS) of frontal cortical regions to modulate memory characteristics in young and older adults.</p>
+	</div>
+</div>
+
+
+<div class="media">
+	<div class="img">
 		<img src="/images/profile_svenliebthal.jpg">
 	</div>
 	<div class="content">
