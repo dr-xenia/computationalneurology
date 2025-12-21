@@ -13,7 +13,7 @@ permalink: "/publications/"
 :   Leone, R. & <b>Kobeleva, X.</b> (2025).<br><b><u>Neurobiology of Aging</u></b>, 155, 66-77.  [→ DOI](https://doi.org/10.1016/j.neurobiolaging.2025.07.007)
 
 40: Brain Atrophy Does Not Predict Clinical Progression in Progressive Supranuclear Palsy.
-:   Quattrone, A., Franzmeier, N., … & DESCRIBE-PSP Study Group (<b>Kobeleva, X.</b> part of DESCRIBE-PSP Study Group) (2025).<br><b><u>Movement Disorders</u></b>, online first.  [→ DOI](https://doi.org/10.1002/mds.70026)
+:   Quattrone, A., Franzmeier, N., … & DESCRIBE-PSP Study Group (<b>Kobeleva, X.</b> part of DESCRIBE-PSP Study Group) (2025).<br><b><u>Movement Disorders</u></b>, 40(11), 2517-2530.  [→ DOI](https://doi.org/10.1002/mds.70026)
 
 39: Beyond Focal Lesions: Dynamical Network Effects of White Matter Hyperintensities.
 :   Leone, R., Geysen, S., Deco, G., & <b>Kobeleva, X.</b> (2024).<br><b><u>Human Brain Mapping</u></b>, 45(17), e70081.  [→ DOI](https://doi.org/10.1002/hbm.70081)
