@@ -12,7 +12,7 @@ permalink           : "/join-our-team/"
 <b>Academic Staff (PhD and postdoctoral positions)</b><p>
 
 <u>Update January 2026:</u> We will soon announce 1-2 PhD positions in the field of computational neurology (before the end of February). If you are potentially interested, please monitor this webpage for updates.
-<br>
+<br><br>
 There is also a yearly call for DAAD-funded PhD scholarships via the International Graduate School of Neuroscience at Ruhr University Bochum (always in Autumn), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/)">here</a> for more details on RUB PhD scholarships. In general, Prof. Dr. Kobeleva is happy to supervise PhD and postdoctoral projects on computational neuroscience topics given an appropriate funding source, e.g., through a scholarship. If you are interested in applying for a scholarship, please send us a brief sketch of your research proposal. 
 
 </p>
