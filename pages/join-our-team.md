@@ -3,7 +3,7 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Join our Team!"
 subheadline         : ""
-teaser              : "If you are interested in our work, we encourage you to apply to join the Computational Neurology Research Group."
+teaser              : "If you are interested in our work, please do not hesitate to apply to join the Computational Neurology Research Group."
 permalink           : "/join-our-team/"
 ---
 <div>
@@ -20,7 +20,7 @@ There is also a yearly call for DAAD-funded PhD scholarships via the Internation
 <p></p>
 <b>Medical doctoral (MD) theses</b><p>
 	
-<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. We have currently an offer for a transcranial magnetic stimulation project with 50 participants undergoing different temporal settings and their influences on cognition and EEG signals. Please send us an application if you are interested. 
+<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. Please send us an unsolicited application if you are interested. 
 </p>
 
 
