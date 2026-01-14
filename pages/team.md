@@ -129,14 +129,14 @@ Sven Liebthal</h2>
 	<div class="content">
 		<h2 style="margin:0px;">Alumni</h2>
 		<ul>
-			<li>Sobhan Moazemi</li>
-			<li>Maher Zoubi</li>
-			<li>Julian Herrmann</li>
-			<li>Julian Schulte</li>
-			<li>Steven Geysen</li>
-			<li>Nahid Hasan</li>
+			<li>Maher Zoubi (medical doctoral student, 2017-2021)</li>
+			<li>Julian Herrmann (medical doctoral student, 2017-2021)</li>
+			<li>Sobhan Moazemi (doctoral research assistant, 2020-2021)</li>
+			<li>Julian Schulte (master's student in 2021-2022, doctoral research assistant, 2022)</li>
+			<li>Steven Geysen (postgraduate research assistant, 2022-2023)</li>
+			<li>Nahid Hasan(postgraduate research assistant, 2022-2023)</li>
 			<li>Dr. Riccardo Leone (PhD Student, 2022-2025)</li>
-			<li>Pegah Majlessi (Master's Student, 2024-2025)</li>
+			<li>Pegah Majlessi (master's Student and undergraduate research assistant, 2024-2025)</li>
 		</ul>
 	</div>
 </div>
