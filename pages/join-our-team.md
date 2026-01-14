@@ -14,6 +14,7 @@ permalink           : "/join-our-team/"
 <u>Update January 2026:</u> We will have 2 PhD positions in the field of computational neurology (deadline on 28.02.2026, earlier applicaitons are encouraged). Please find the information here: <a href="https://www.ini.rub.de/the_institute/jobs/2_phd_positions_fmd_in_computational_neurology/)">here</a>.
 <br><br>
 There is also a yearly call for DAAD-funded PhD scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline on 31.01.2026!), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/)">here</a> for more details on RUB PhD scholarships. <br>
+For postdocs, we currently offer a short-term fellowship (deadline: 15.02.2026) via <a href="(https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en)">Research Explorer Ruhr</a>.The goal here is to get to know each other and build a basis for an extended fellowship application. <br>
 In general, Prof. Dr. Kobeleva is happy to supervise PhD and postdoctoral projects on computational neuroscience topics given an appropriate funding source, e.g., through a scholarship. If you are interested in applying for a scholarship, please send us a brief sketch of your research proposal. 
 
 </p>
