@@ -10,16 +10,17 @@ We are a research group at Ruhr University Bochum (Faculty of Medicine), consist
 
 The Computational Neurology Group is a research group at Ruhr University Bochum (RUB), consisting of Prof. Dr. Xenia Kobeleva and her team.
 
-<b>Background</b>
+<b>Background</b><br>
 We conduct interdisciplinary research at the intersection between neurology and computational modelling, which is reflected in our unique organizational affiliation, which extends to both Ruhr University’s Faculty of Medicine (primary affiliation) and its Faculty of Computer Science (secondary affiliation). 
 Based on this dual organizational affiliation, many of our activities are based in RUB’s interdisciplinary Institute for Neural Computation (INI). We are also part of the Bernstein Node Bochum, RUB’s Science Hub Neuroscience, and RUB’s International Graduate School of Neuroscience.
 Our team is young, motivated, international, and genuinely interdisciplinary, bringing together expertise from medicine, neuroscience, mathematics/quantitative sciences, and psychology. Besides a direct connection to clinical neurology, we are intensively collaborating with leading experts for mathematics and computer science.
 
 <br>
-<b>Research questions</b>
+<b>Research questions</b><br>
 In the Computational Neurology Group, we investigate clinically relevant questions in the field of neuropsychiatry (especially questions about neurodegenerative diseases) using computational approaches. In doing so, we bridge clinical neuroscience (neurostimulation, symptoms, networks and treatment of neurodegenerative diseases) and computational neuroscience (whole-brain network neural modeling, parameter inference, control theory), contributing to a growing body of translational research that connects computational methods to real-world clinical data and patient-oriented questions.
 <br>
-<b>Research strategy: Combining data- and model-driven approaches</b>
+
+<b>Research strategy: Combining data- and model-driven approaches</b><br>
 Our research focuses on combining a data-driven approach and a model-driven approach, aiming for tuning our mathematical models so that they accurately replicate empirical brain activity data (see Figure 1).
 
 <img class="center" style="width:400px;" src="/images/about_approaches.png"><br>
@@ -32,7 +33,7 @@ The data-driven approach mainly focusses on the analysis of neurological disease
 
 These mathematical models can enable medical doctors to adapt their treatments based on patient-specific model parameters.
 
-<b>Research methods</b>
+<b>Research methods</b><br>
 <ul>
   <li>Dynamical modelling (dynamic mean field, Hopf, etc.)</li>
   <li>Analyses of connectivity (structural connectivity, functional connectivity, dynamical functional connectivity, effective connectivity)</li>
