@@ -6,9 +6,7 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/about/"
 ---
-We are a research group at Ruhr University Bochum (Faculty of Medicine), consisting of [Prof. Dr. Xenia Kobeleva](/xenia-kobeleva/) and her [team](/team/).
-
-The Computational Neurology Group is a research group at Ruhr University Bochum (RUB), consisting of Prof. Dr. Xenia Kobeleva and her team.
+The Computational Neurology Group is a research group at Ruhr University Bochum (RUB),  consisting of [Prof. Dr. Xenia Kobeleva](/xenia-kobeleva/) and her [team](/team/).
 
 <b>Background</b><br>
 We conduct interdisciplinary research at the intersection between neurology and computational modelling, which is reflected in our unique organizational affiliation, which extends to both Ruhr University’s Faculty of Medicine (primary affiliation) and its Faculty of Computer Science (secondary affiliation). 
