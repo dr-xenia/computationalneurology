@@ -16,14 +16,14 @@ For postdocs, we currently offer a short-term fellowship (deadline: 15.02.2026) 
 In general, Prof. Dr. Kobeleva is happy to supervise PhD and postdoctoral projects on computational neuroscience topics given an appropriate funding source, e.g., through a scholarship. If you are interested in applying for a scholarship, please send us a brief sketch of your research proposal. 
 
 </p>
-	
+<br>	
 <p></p>
 <b>Medical doctoral (MD) theses</b><p>
 	
-<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis. Please send us an unsolicited application if you are interested. 
+<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). Our project often result in a publication with the student being a first author, but this also means that the time demands and expectations from you are higher than with a retrospective analysis. To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis and you have to be  a student at RUB. Please send us an unsolicited application if you are interested.
 </p>
 
-
+<br>
 <p></p>
 <b>Students</b>
 
