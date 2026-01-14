@@ -41,7 +41,7 @@ These mathematical models can enable medical doctors to adapt their treatments b
 </ul>
 <br>
 
-<b>Social benefit of our research</b>
+<b>Social benefit of our research</b><br>
 We are firm believers that research transparency and outreach to patients is the necessary foundation that legitimizes our academic work.
 Following the principles of Open Science, we thoroughly document our research inputs, methodologies, and outputs, make them publicly available and subsequentially publish our results in Open Access. By doing so, we enable third-party replication of our results in different contexts, validating or falsifying our findings.
 We also engage in several outreach activities (communicating our research results to patients affected) and maintain strong relationships to patient interest groups (see website section “non-expert info”). As such, we investigate not only research questions that are clinically relevant, but also relevant to the individuals affected by neurodegenerative diseases (whether these individuals are actual patients, or family/care-givers).
