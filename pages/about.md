@@ -44,7 +44,6 @@ In the Computational Neurology Group, we combine several methods from medical re
   <li>Analyses and design of fMRI and EEG studies</li>
   <li>Neurophysiology (TMS, EMG, EEG)</li>
 </ul>
-<br>
 
 <b>Social benefit of our research</b><br>
 We are firm believers that research transparency and outreach to patients is the necessary foundation that legitimizes our academic work.
