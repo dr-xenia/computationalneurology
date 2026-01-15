@@ -13,7 +13,7 @@ We conduct interdisciplinary research at the intersection between neurology and 
 <br>
 Based on this dual organizational affiliation, many of our activities are based in RUB’s interdisciplinary <a href="https://www.ini.rub.de/the_institute/people/xenia-kobeleva/">Institute for Neural Computation (INI)</a>. We are also part of the <a href="https://www.ruhr-uni-bochum.de/bernsteinnode/index.html.en">Bernstein Node Bochum</a>, RUB’s <a href="https://www.neuro.ruhr-uni-bochum.de/rdn/personen/Xenia_Kobeleva.html.en">Science Hub Neuroscience</a>, and RUB’s <a href="https://www.igsn.ruhr-uni-bochum.de/people/faculty-members/xenia-kobeleva/">International Graduate School of Neuroscience</a>.
 <br>
-Our [team](/team/) is young, motivated, international, and genuinely interdisciplinary, bringing together expertise from medicine, neuroscience, mathematics/quantitative sciences, and psychology. Besides a direct connection to clinical neurology, we are intensively collaborating with leading experts for mathematics and computer science.
+Our team is young, motivated, international, and genuinely interdisciplinary, bringing together expertise from medicine, neuroscience, mathematics/quantitative sciences, and psychology. Besides a direct connection to clinical neurology, we are intensively collaborating with leading experts for mathematics and computer science.
 <br>
 
 <b>Research questions</b><br>
