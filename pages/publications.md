@@ -6,6 +6,9 @@ teaser: ""
 permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
+43: Loss-of-function variants in the CAPN1 activator CD99L2 cause X-linked spastic ataxia.
+:   Menden, B., Incebacak Eltemur, R. D., Demidov, G., … <b>Kobeleva, X.</b>, … &  Haack, T. B. (2026).<br><b><u>Nature Communications</u></b>, 17, 1698.  [→ DOI](https://doi.org/10.1038/s41467-026-69337-9)
+
 42: Alterations in MRI-visible perivascular spaces precede dementia diagnosis by 18 years in autosomal dominant Alzheimer’s disease.
 :   Leone, R., <b>Kobeleva, X.</b>, Rowe, B., Choupan, J., Ringman, J. M., & Barisano, G. (2025).<br><b><u>Alzheimer's & Dementia</u></b>, 21(8), e70588.  [→ DOI](https://doi.org/10.1002/alz.70588)
 
