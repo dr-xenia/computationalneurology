@@ -37,10 +37,10 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
-		<img src="/images/profile_xeniakobeleva.jpg">
+		<a href="https://computationalneurology.com/xenia-kobeleva"><img src="/images/profile_xeniakobeleva.jpg"></a>
 	</div>
 	<div class="content">
-		<h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2>
+		<a href="https://computationalneurology.com/xenia-kobeleva"><h2 style="margin:0px;">Prof. Dr. Xenia Kobeleva</h2></a>
 		<p>Research Group Leader</p>
 		<p>Xenia Kobeleva is an assistant professor (tenure track) in Neurostimulation at Ruhr University Bochum (RUB), research group leader of RUB’s Computational Neurology Group, and senior physician at the Department of Neurology of the University Hospital Knappschaftskrankenhaus Bochum.</p> 
 		<p>She is an expert in neurodegenerative diseases and brain modelling, and works at the intersection of medical research, computer science, and clinical practice. Consequently, she is member of RUB’s Faculty of Medicine (primary affiliation) and Faculty of Computer Science (secondary affiliation), and is PI at the RUB Institute for Neuroinformatics (INI), at the RUB Science Hub Neuroscience, and at the Bernstein Node Bochum.</p>
