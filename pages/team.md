@@ -55,7 +55,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Dr. Nikolai Syrov</h2>
 		<p>Postdoctoral Associate</p>
-		<p>Nikolay Syrov joined the Computational Neurology Research Group as a postdoctoral researcher in 2025. He currently works on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. He obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques.</p>
+		<p>Nikolay Syrov joined the Computational Neurology Group as a postdoctoral researcher in 2025. He currently works on developing state-dependent personalized neurostimulation approaches aimed at efficiently modulating brain activity. He obtained his PhD in Physiology in 2022 from Lomonosov Moscow State University, where his research focused on brain-computer interfaces for motor rehabilitation. Following his doctorate, he studied mechanisms of action preparation and led projects investigating neuromarkers of sensorimotor network impairments after stroke, extensively employing EEG, fNIRS, and TMS techniques.</p>
 	</div>
 </div>
 
@@ -67,7 +67,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Shoto Yamada</h2>
 		<p>PhD Candidate</p>
-		<p>Shoto Yamada is a PhD candidate at Ruhr University Bochum, co-supervised by Prof. Dr. Xenia Kobeleva and Prof. Dr. Robert Schmidt. He joined the Computational Neurology Research Group in late 2024, following his Master's thesis project that was also supervised by Prof. Kobeleva. Shoto holds a Master's degree in Cognitive Science from Ruhr University Bochum and focuses on the development and application of probabilistic machine learning techniques for the analysis of electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.</p>
+		<p>Shoto Yamada is a PhD candidate at Ruhr University Bochum, co-supervised by Prof. Dr. Xenia Kobeleva and Prof. Dr. Robert Schmidt. He joined the Computational Neurology Group in late 2024, following his Master's thesis project that was also supervised by Prof. Kobeleva. Shoto holds a Master's degree in Cognitive Science from Ruhr University Bochum and focuses on the development and application of probabilistic machine learning techniques for the analysis of electrophysiology data. Currently, he is working on developing a Bayesian Hidden Markov Model to detect transient oscillations, contributing to advancements in understanding neural dynamics.</p>
 	</div>
 </div>
 
@@ -79,7 +79,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Franziska-Maria Fuchs</h2>
 		<p>MD Candidate</p>
-		<p>Franziska-Maria Fuchs is a student of medicine at the University of Bonn and joined the Computational Neurology Research Group in 2023 for pursuing her doctoral thesis. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
+		<p>Franziska-Maria Fuchs is a student of medicine at the University of Bonn and joined the Computational Neurology Group in 2023 for pursuing her doctoral thesis. She accompanies a clinical trial in the field of the hereditary spastic paraplegias (HSP), in which she investigates the treatment outcome of transcranial magnetic stimulation on patients suffering from HSP.</p>
 	</div>
 </div>
 
@@ -91,7 +91,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Briand Qeriqi</h2>
 		<p>MD Candidate</p>
-		<p>Briand Qeriqi is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Research Group in 2023 for pursuing his doctoral thesis. He conducts clinical-experimental research in the field of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), utilizing imaging techniques such as functional Magnetic Resonance Imaging (fMRI) and brain modeling tools.</p>
+		<p>Briand Qeriqi is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Group in 2023 for pursuing his doctoral thesis. He conducts clinical-experimental research in the field of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), utilizing imaging techniques such as functional Magnetic Resonance Imaging (fMRI) and brain modeling tools.</p>
 	</div>
 </div>
 
@@ -103,7 +103,7 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Robin Rademacher</h2>
 		<p>MD Candidate</p>
-		<p>Robin Rademacher is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Research Group in 2025 for pursuing his doctoral thesis. He investigates age-related alterations in neurophysiological correlates of visual working memory, recording cortical activity via electroencephalography (EEG) during different stages of the memory process and utilizing transcranial magnetic stimulation (TMS) of frontal cortical regions to modulate memory characteristics in young and older adults.</p>
+		<p>Robin Rademacher is a student of medicine at Ruhr University Bochum and joined the Computational Neurology Group in 2025 for pursuing his doctoral thesis. He investigates age-related alterations in neurophysiological correlates of visual working memory, recording cortical activity via electroencephalography (EEG) during different stages of the memory process and utilizing transcranial magnetic stimulation (TMS) of frontal cortical regions to modulate memory characteristics in young and older adults.</p>
 	</div>
 </div>
 
@@ -128,7 +128,7 @@ permalink           : "/team/"
 		<h2 style="margin:0px;">
 Sven Liebthal</h2>
 		<p>Team Assistant</p>
-		<p>Sven Liebthal is the Computational Neurology Research Group's team assistant. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over ten years in the private sector before joining Ruhr University Bochum. He greatly adds to the group by bringing in and applying his economic and managerial expertise.</p>
+		<p>Sven Liebthal is the Computational Neurology Group's team assistant. After completing a commercial apprenticeship, he studied Economics with a focus on Logistics and then worked in this profession for over ten years in the private sector before joining Ruhr University Bochum. He greatly adds to the group by bringing in and applying his economic and managerial expertise.</p>
 	</div>
 </div>
 
