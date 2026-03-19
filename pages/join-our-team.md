@@ -10,7 +10,7 @@ permalink           : "/join-our-team/"
 
 <p></p>
 <b>Academic Staff (PhD and postdoctoral positions)</b><p>
-We currently do not have any funded positions for PhD students and postdocs.
+We currently do not have any additional funded positions for PhD students. However, I will advertise soon a 2-year postdoctoral position in the field of NeuroAI and I am looking for candidates with experience in neural networks applied to brain data (e.g., RNN) and/or macroscale biophysical brain modeling. You can contact me with your CV attached for informal inquiries. 
 	
 <b>Regular funding opportunities:</b> There is a yearly call for DAAD-funded <b>PhD</b> scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline: each year in January), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/">here</a> for more details and application link on RUB PhD scholarships. <br>
 For <b>postdocs</b>, we currently offer a short-term fellowship of two weeks including travel, visa, and accommodation (deadline: each year in February) via <a href="https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en">Research Explorer Ruhr</a>. Please apply directly via the website - you can reach out for questions, but this is not required. The goal of the short-term fellowship is to get to know each other and to build a basis for an extended fellowship application (by you and supported by me). <br>
