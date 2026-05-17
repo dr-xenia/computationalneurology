@@ -7,7 +7,7 @@ permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
 44: Attentional Function in Patients with Amyotrophic Lateral Sclerosis is moderated by Age and Education.
-:   Zoubi, M., Weydt P., & <b>Kobeleva, X.</b> (2026, in press).<br><b><u>Brain & Behavior</u></b>.  [DOI tba]
+:   Zoubi, M., Weydt P., & <b>Kobeleva, X.</b> (2026, in press).<br>Accepted for publication in <b><u>Brain & Behavior</u></b>.  [DOI tba]
 
 43: Loss-of-function variants in the CAPN1 activator CD99L2 cause X-linked spastic ataxia.
 :   Menden, B., Incebacak Eltemur, R. D., Demidov, G., … <b>Kobeleva, X.</b>, … &  Haack, T. B. (2026).<br><b><u>Nature Communications</u></b>, 17, 1698.  [→ DOI](https://doi.org/10.1038/s41467-026-69337-9)
