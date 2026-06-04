@@ -7,10 +7,10 @@ permalink: "/publications/"
 ---
 `Asterisks * indicate joint first authors`
 45: Attentional Function in Patients With Amyotrophic Lateral Sclerosis is Moderated by Age and Education.
-:   Zoubi, M., Weydt P., & <b>Kobeleva, X.</b> (2026).<br><b><u>Brain and Behavior</u></b>, e71511.  [→ DOI](https://doi.org/10.1002/brb3.71511)
+:   Zoubi, M., Weydt P., & <b>Kobeleva, X.</b> (2026).<br><b><u>Brain and Behavior</u></b>, 16(6), e71511.  [→ DOI](https://doi.org/10.1002/brb3.71511)
 
 44: Planimetric and Linear MRI Markers for Progressive Supranuclear Palsy Classification: A Large Multicohort International Study.
-:   Quattrone, A., Bianco, M.G., … & DESCRIBE-PSP Study Group (<b>Kobeleva, X.</b> part of DESCRIBE-PSP Study Group) (2026).<br><b><u> Radiology</u></b>, e251394.  [→ DOI](https://doi.org/10.1148/radiol.251394)
+:   Quattrone, A., Bianco, M.G., … & DESCRIBE-PSP Study Group (<b>Kobeleva, X.</b> part of DESCRIBE-PSP Study Group) (2026).<br><b><u> Radiology</u></b>, 319(3), e251394.  [→ DOI](https://doi.org/10.1148/radiol.251394)
 
 43: Loss-of-function variants in the CAPN1 activator CD99L2 cause X-linked spastic ataxia.
 :   Menden, B., Incebacak Eltemur, R. D., Demidov, G., … <b>Kobeleva, X.</b>, … &  Haack, T. B. (2026).<br><b><u>Nature Communications</u></b>, 17, 1698.  [→ DOI](https://doi.org/10.1038/s41467-026-69337-9)
