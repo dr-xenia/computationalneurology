@@ -62,6 +62,18 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
+		<img src="/images/profile_riccardocatena.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Riccardo Catena</h2>
+		<p>PhD Candidate</p>
+		<p>Riccardo Catena joined the Computational Neurology group as a PhD candidate in 2026. Transitioning from biomedical engineering to computational neuroscience, he previously researched neuronal structural plasticity at the Bernstein Center Freiburg and excitation-inhibition balance at the University of Lübeck. In his research, he utilizes whole-brain neural mass models to investigate how cognitive states and pathologies (e.g. Alzheimer's disease) alter brain dynamics, with the goal of better informing neurostimulation protocols.</p>
+	</div>
+</div>
+
+
+<div class="media">
+	<div class="img">
 		<img src="/images/profile_shotoyamada.jpg">
 	</div>
 	<div class="content">
