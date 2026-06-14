@@ -67,7 +67,19 @@ permalink           : "/team/"
 	<div class="content">
 		<h2 style="margin:0px;">Riccardo Catena</h2>
 		<p>PhD Candidate</p>
-		<p>Riccardo Catena joined the Computational Neurology group as a PhD candidate in 2026. Transitioning from biomedical engineering to computational neuroscience, he previously researched neuronal structural plasticity at the Bernstein Center Freiburg and excitation-inhibition balance at the University of Lübeck. In his research, he utilizes whole-brain neural mass models to investigate how cognitive states and pathologies (e.g. Alzheimer's disease) alter brain dynamics, with the goal of better informing neurostimulation protocols.</p>
+		<p>Riccardo Catena joined the Computational Neurology Group as a PhD candidate in 2026. Transitioning from biomedical engineering to computational neuroscience, he previously researched neuronal structural plasticity at the Bernstein Center Freiburg and excitation-inhibition balance at the University of Lübeck. In his research, he utilizes whole-brain neural mass models to investigate how cognitive states and pathologies (e.g. Alzheimer's disease) alter brain dynamics, with the goal of better informing neurostimulation protocols.</p>
+	</div>
+</div>
+
+
+<div class="media">
+	<div class="img">
+		<img src="/images/profile_fredericktrefz.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Frederick Trefz</h2>
+		<p>PhD Candidate</p>
+		<p>Frederick Trefz is a PhD student and joined the Computational Neurology Group in 2026. He holds a master's degree in Artificial Intelligence from Radboud University Nijmegen, where he used genetic programming to automate the discovery of governing equations in neuroscience. In his PhD, he aims at improving quantitative models of brain dynamics by focusing on simulation-based inference and neural mass models.</p>
 	</div>
 </div>
 
