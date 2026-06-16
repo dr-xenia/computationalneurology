@@ -171,7 +171,7 @@ Sven Liebthal</h2>
 			<li>Steven Geysen (postgraduate research assistant, 2022-2023)</li>
 			<li>Julian Schulte (Master's student in 2021-2022, doctoral research assistant, 2022)</li>
 			<li>Sobhan Moazemi (doctoral research assistant, 2020-2021)</li>
-			<li>Julian Herrmann (medical doctoral student, 2017-2021)</li>
+			<li>Dr. Julian Herrmann (medical doctoral student, 2017-2021)</li>
 			<li>Maher Zoubi (medical doctoral student, 2017-2021)</li>			
 		</ul>
 	</div>
