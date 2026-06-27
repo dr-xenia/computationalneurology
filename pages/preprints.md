@@ -3,11 +3,11 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Preprint download"
 subheadline         : ""
-teaser              : "This is a temporary page to facilitate preprint downloads for the SFB review"
+teaser              : ""
 permalink           : "/preprints/"
 ---
 
-<b>Preprints for SFB reviw</b>
+This is a temporary page to facilitate preprint downloads for the SFB review, as of the time of the SFB submission, no DOI for the following preprint has been created yet:
 
 Rhythmic replay of short-term memory neural patterns revealed by time-resolved error prediction
-:   Syrov, N., Schmidt, S., Rademacher, R., & <b>Kobeleva, X.</b> (2026).<br>[→ Download](/downloads/Preprint_RhythmicReplay_Kobeleva.pdf)
+:   Syrov, N., Schmidt, S., Rademacher, R., & <b>Kobeleva, X.</b> (2026).  [→ Download preprint](/downloads/Preprint_RhythmicReplay_Kobeleva.pdf)
