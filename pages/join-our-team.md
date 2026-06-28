@@ -13,7 +13,6 @@ permalink           : "/join-our-team/"
 We currently do not have any funded positions for PhD students and postdocs (apart from the below mentioned fellowships and opportunities). 
 </p>
 <br>	
-<p></p>
 <b>Regular funding opportunities:</b> <br>	There is a yearly call for DAAD-funded <b>PhD</b> scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline: each year in January), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/">here</a> for more details and application link on RUB PhD scholarships. <br>
 For <b>postdocs</b>, we encourage you to apply for a short-term fellowship of two weeks including travel, visa, and accommodation (deadline: each year in February) via <a href="https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en">Research Explorer Ruhr</a>. Please apply directly via the website - you can reach out for questions, but this is not required. The goal of the short-term fellowship is to get to know each other and to build a basis for an extended fellowship application (by you and supported by me). <br>
 You can also apply to the <a href="https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en">DAAD AInet Fellowship</a> to explore funding opportunities in Germany as a postdoc, including a week-long stay with us here in Bochum. 
