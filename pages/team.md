@@ -65,7 +65,7 @@ permalink           : "/team/"
 		<img src="/images/profile_mikewilbert.jpg">
 	</div>
 	<div class="content">
-		<h2 style="margin:0px;">Mike Wilbert</h2>
+		<h2 style="margin:0px;">Dr. Mike Wilbert</h2>
 		<p>Postdoctoral Associate</p>		
 		<p>Mike Wilbert joined the Computational Neurology Group as a postdoctoral researcher in 2026. He holds a PhD in theoretical physics, in which he developed numerical methods and high-performance simulation codes to investigate complex plasma systems. His research interests lie at the intersection of mathematical modelling, scientific computing, and machine learning. In his current work, he develops computational 
 approaches for personalized brain modelling, with a particular focus on hybrid whole-brain models and digital twins that integrate mechanistic simulations with patient-specific neuroimaging data.
@@ -165,7 +165,7 @@ approaches for personalized brain modelling, with a particular focus on hybrid w
 	<div class="content">
 		<h2 style="margin:0px;">Rui Zhao</h2>
 		<p>Master's Thesis Student</p>		
-		<p>Rui Zhao joined the Computational Neurology Group as a research assistant in 2026, supporting in the preparation and analysis of neuroimaging data. She currently pursues her Master's studies in Cognitive Science at Ruhr University Bochum, following undergraduate studies in Psychology at the University of Amsterdam. In her Master's thesis (supervised by Prof. Kobeleva), she uses whole-brain neural mass modelling to investigate how amyloid and tau influence brain network dynamics in Alzheimer's disease.</p> 
+		<p>Rui Zhao joined the Computational Neurology Group as a research assistant in 2026, supporting in the preparation and analysis of neuroimaging data. She currently pursues her Master's studies in Cognitive Science at Ruhr University Bochum, following undergraduate studies in Psychology at the University of Amsterdam. In her Master's thesis (supervised by Prof. Kobeleva), she uses whole-brain neural mass modelling to investigate how amyloid and tau influence brain network dynamics in Alzheimer's disease.</p>
 	</div>
 </div>
 
