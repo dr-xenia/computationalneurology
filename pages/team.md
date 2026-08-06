@@ -62,6 +62,20 @@ permalink           : "/team/"
 
 <div class="media">
 	<div class="img">
+		<img src="/images/profile_mikewilbert.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Mike Wilbert</h2>
+		<p>Postdoctoral Associate</p>		
+		<p>Mike Wilbert joined the Computational Neurology Group as a postdoctoral researcher in 2026. He holds a PhD in theoretical physics, in which he developed numerical methods and high-performance simulation codes to investigate complex plasma systems. His research interests lie at the intersection of mathematical modelling, scientific computing, and machine learning. In his current work, he develops computational 
+approaches for personalized brain modelling, with a particular focus on hybrid whole-brain models and digital twins that integrate mechanistic simulations with patient-specific neuroimaging data.
+</p>
+	</div>
+</div>
+
+
+<div class="media">
+	<div class="img">
 		<img src="/images/profile_riccardocatena.jpg">
 	</div>
 	<div class="content">
@@ -140,6 +154,18 @@ permalink           : "/team/"
 		<h2 style="margin:0px;">Skyla Schmidt</h2>
 		<p>Student research assistant</p>		
 		<p>Skyla Schmidt completed her undergraduate studies in Psychology at Maastricht University and seeks to continue her studies with a Master's degree at Ruhr University Bochum. In 2025, she joined the Computational Neurology Group as a student research assistant for Dr. Nikolai Syrov's study on state-dependent personalized neurostimulation.</p>
+	</div>
+</div>
+
+
+<div class="media">
+	<div class="img">
+		<img src="/images/profile_ruizhao.jpg">
+	</div>
+	<div class="content">
+		<h2 style="margin:0px;">Rui Zhao</h2>
+		<p>Master's Thesis Student</p>		
+		<p>Rui Zhao joined the Computational Neurology Group as a research assistant in 2026, supporting in the preparation and analysis of neuroimaging data. She currently pursues her Master's studies in Cognitive Science at Ruhr University Bochum, following undergraduate studies in Psychology at the University of Amsterdam. In her Master's thesis (supervised by Prof. Kobeleva), she uses whole-brain neural mass modelling to investigate how amyloid and tau influence brain network dynamics in Alzheimer's disease.</p>
 	</div>
 </div>
 
