@@ -10,7 +10,7 @@ permalink           : "/join-our-team/"
 
 <p></p>
 <b>Academic Staff (PhD and postdoctoral positions)</b><p>
-We have a four year funded PhD position working on TMS-EEG, suited for candidates with experience in human fMRI, TMS, or EEG- please apply <a href="https://jobs.ruhr-uni-bochum.de/jobposting/2272b862b9ecce2b036aa5aa4dcd9a7f049cdce31?ref=homepage">here</a>. We currently do not have any funded positions for postdocs (apart from the below mentioned fellowships and opportunities). 
+We have a four year funded PhD position working on TMS-EEG, suited for candidates with experience in human fMRI, TMS, or EEG- please apply <a href="https://jobs.ruhr-uni-bochum.de/jobposting/2272b862b9ecce2b036aa5aa4dcd9a7f049cdce31?ref=homepage">here until 26.10.2026</a>. We currently do not have any funded positions for postdocs (apart from the below mentioned fellowships and opportunities). 
 </p>
 <br>	
 <b>Regular funding opportunities:</b> <br>	There is a yearly call for DAAD-funded <b>PhD</b> scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline: each year in January), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/">here</a> for more details and application link on RUB PhD scholarships. <br>
