@@ -13,7 +13,7 @@ permalink           : "/join-our-team/"
 We currently do not have any funded positions for PhD-students and postdocs (but you can apply for the below mentioned fellowships and opportunities). 
 </p>
 <br>	
-<b>Regular funding opportunities:</b> <br>	There is a yearly call for DAAD-funded <b>PhD</b> scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline: each year in January), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/">here</a> for more details and application link on RUB PhD scholarships. <br>
+<b>Regular funding opportunities</b> <br>	There is a yearly call for DAAD-funded <b>PhD</b> scholarships for international applicants with via the International Graduate School of Neuroscience at Ruhr University Bochum (deadline: each year in January), which would give you an opportunity to work with us, see  <a href="https://www.igsn.ruhr-uni-bochum.de/admission/daad-scholarships/general-information/">here</a> for more details and application link on RUB PhD scholarships. <br>
 For <b>postdocs</b>, we encourage you to apply for a short-term fellowship of two weeks including travel, visa, and accommodation (deadline: each year in February) via <a href="https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en">Research Explorer Ruhr</a>. Please apply directly via the website - you can reach out for questions, but this is not required. The goal of the short-term fellowship is to get to know each other and to build a basis for an extended fellowship application (by you and supported by me). <br>
 You can also apply to the <a href="https://www.research-academy-ruhr.de/programm/researchexplorer/index.html.en">DAAD AInet Fellowship</a> to explore funding opportunities in Germany as a postdoc, including a week-long stay with us here in Bochum. 
 
@@ -23,7 +23,7 @@ You can also apply to the <a href="https://www.research-academy-ruhr.de/programm
 <br>	
 <p></p>
 <b>Medical doctoral (MD) theses</b>
-<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). Our project often result in a publication with the student being a first author, but this also means that the time demands and expectations from you are higher than with a retrospective analysis. To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis and you have to be  a student at RUB. Please send us an unsolicited application if you are interested.
+<p>We offer supervision of MD theses, providing medical students with unique computational or experimental (neurostimulation) skills. Our projects are usually either experimental (neurostimulation) or computational (modeling, data science). Our project often result in a publication with the student being a first author, but this also means that the time demands and expectations from you are higher than with a retrospective analysis. To successfully pursue a project, we require at least one "Freisemester" to focus on the doctoral thesis and you have to be enrolled as a student at RUB. Please send us an unsolicited application if you are interested.
 </p>
 
 <br>
@@ -48,7 +48,7 @@ You can also apply to the <a href="https://www.research-academy-ruhr.de/programm
 		<li>Neuroscience,</li>
 		<li>and related fields (such as Data Science).</li>
 	</ul>
-<p>We currently offer thesis supervision of students located at Ruhr University Bochum, TU Dortmund (Data Science), and University of Bonn. Students from other universities should gather information about the formalities of executing their thesis at another university/faculty. For internships or student projects, we are open for students from all universities. 
+<p>We currently offer thesis supervision of students located at Ruhr University Bochum, TU Dortmund (Data Science), and University of Bonn.. Students from other universities should gather information about the formalities of executing their thesis at another university/faculty. For internships or student projects, we are open for students from all universities. If you are an external student, please send us information about how you would fund your internship or student project. Preference is given to students with experience in neuroimaging, programming, computational neuroscience, or neuropsychology. 
 </p>
 <p>
 <p>
